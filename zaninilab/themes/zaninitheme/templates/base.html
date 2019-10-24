@@ -1,0 +1,25 @@
+{% extends "!simple/base.html" %}
+
+{% block head %}
+{{ super() }}
+       <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/style.css" />
+
+{% if article %}
+    {% if article.stylesheets %}
+        {% for stylesheet in article.stylesheets %}
+{{ stylesheet }}
+        {% endfor %}
+    {% endif %}
+{% endif %}
+{% endblock %}
+
+{% block endbody %}
+{{ super() }}
+{% if article %}
+    {% if article.javascripts %}
+        {% for javascript in article.javascripts %}
+{{ javascript }}
+        {% endfor %}
+    {% endif %}
+{% endif %}
+{% endblock %}
