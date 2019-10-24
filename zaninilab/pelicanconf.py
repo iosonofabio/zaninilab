@@ -37,4 +37,4 @@ DEFAULT_PAGINATION = False
 PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = ['pelican_javascript']
 
-THEME = 'themes/zaninitheme'
+THEME = 'themes/simple'
