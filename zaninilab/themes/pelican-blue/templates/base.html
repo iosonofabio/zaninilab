@@ -73,9 +73,9 @@
         {% endfor %}
          
         {% if DISPLAY_PAGES_ON_MENU and pages %}{% for p in pages %}
-          <li><a class="nav__link" href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
+          <li><a class="nav__link" href="{{ SITEURL }}/{{ p.url }}">{{ p.title|upper }}</a></li>
         {% endfor %}{% endif %}
-        <li><a class="nav__link" href="{{ SITEURL }}/index.html">Blog</a></li>
+        <li><a class="nav__link" href="{{ SITEURL }}/index.html">BLOG</a></li>
          
       </ul>
     </nav>
