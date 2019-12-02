@@ -1,5 +1,0 @@
-title: Home
-slug: home
-category: pages
-
-test test

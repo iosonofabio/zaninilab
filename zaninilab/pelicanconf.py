@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Fabio Zanini'
-SITENAME = 'fablab'
+SITENAME = 'fabilab'
 SITEURL = ''
 
 PATH = 'content'
@@ -40,8 +40,11 @@ PLUGINS = ['pelican_javascript']
 #THEME = 'themes/nikhil-theme'
 #THEME = 'themes/nmnlist'
 THEME = 'themes/pelican-blue'
+#THEME = 'themes/pelican-mockingbird'
 
 DEFAULT_PAGINATION = True
 DISPLAY_PAGES_ON_MENU = True
+DISPLAY_CATEGORIES_ON_MENU = True
 LOAD_CONTENT_CACHE = False
-#MENUITEMS = ['pages/landing.html', 'pages/people.html']
+TYPOGRIFY = False
+PAGE_ORDER_BY = 'order'
