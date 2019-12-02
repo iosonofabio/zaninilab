@@ -3,10 +3,12 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Fabio Zanini'
-SITENAME = 'zaninilab'
+SITENAME = 'fablab'
 SITEURL = ''
 
 PATH = 'content'
+PAGE_PATHS = ['pages']
+ARTICLE_PATHS = ['posts']
 
 TIMEZONE = 'Australia/Sydney'
 
@@ -21,15 +23,12 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+         )
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
-
-DEFAULT_PAGINATION = False
+SOCIAL = (('twitter', 'https://twitter.com/fabiousername'),
+          ('github', 'https://github.com/iosonofabio'),
+          )
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
@@ -37,4 +36,12 @@ DEFAULT_PAGINATION = False
 PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = ['pelican_javascript']
 
-THEME = 'themes/simple'
+#THEME = 'themes/simple'
+#THEME = 'themes/nikhil-theme'
+#THEME = 'themes/nmnlist'
+THEME = 'themes/pelican-blue'
+
+DEFAULT_PAGINATION = True
+DISPLAY_PAGES_ON_MENU = True
+LOAD_CONTENT_CACHE = False
+#MENUITEMS = ['pages/landing.html', 'pages/people.html']
