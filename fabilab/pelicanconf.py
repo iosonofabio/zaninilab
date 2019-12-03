@@ -48,3 +48,5 @@ DISPLAY_CATEGORIES_ON_MENU = True
 LOAD_CONTENT_CACHE = False
 TYPOGRIFY = False
 PAGE_ORDER_BY = 'order'
+AVATAR = '/images/logo2.png'
+SUBLOGO = 'fabrication. algorithms. biomedicine. integrated.'
