@@ -1,25 +1,16 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
-from __future__ import unicode_literals
-
 AUTHOR = 'Fabio Zanini'
 SITENAME = 'fabilab'
-SITEURL = ''
+SITEURL = 'http://fabilab.org'
+TIMEZONE = 'Australia/Sydney'
+DEFAULT_LANG = 'en'
 
 PATH = 'content'
 PAGE_PATHS = ['pages']
 ARTICLE_PATHS = ['posts']
-
-TIMEZONE = 'Australia/Sydney'
-
-DEFAULT_LANG = 'en'
-
-# Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
-CATEGORY_FEED_ATOM = None
-TRANSLATION_FEED_ATOM = None
-AUTHOR_FEED_ATOM = None
-AUTHOR_FEED_RSS = None
+PLUGIN_PATHS = ['pelican-plugins']
+PLUGINS = ['pelican_javascript']
 
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),
@@ -30,23 +21,24 @@ SOCIAL = (('twitter', 'https://twitter.com/fabiousername'),
           ('github', 'https://github.com/iosonofabio'),
           )
 
-# Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
-
-PLUGIN_PATHS = ['pelican-plugins']
-PLUGINS = ['pelican_javascript']
-
-#THEME = 'themes/simple'
-#THEME = 'themes/nikhil-theme'
-#THEME = 'themes/nmnlist'
 THEME = 'themes/pelican-blue'
-#THEME = 'themes/pelican-mockingbird'
-
-DEFAULT_PAGINATION = True
+DEFAULT_PAGINATION = False
 DISPLAY_PAGES_ON_MENU = True
 DISPLAY_CATEGORIES_ON_MENU = True
 LOAD_CONTENT_CACHE = False
-TYPOGRIFY = False
+TYPOGRIFY = True
 PAGE_ORDER_BY = 'order'
 AVATAR = '/images/logo2.png'
 SUBLOGO = 'fabrication. algorithms. biomedicine. integrated.'
+SUMMARY_MAX_LENGTH = 0
+
+
+# Feed generation is usually not desired when developing
+FEED_ALL_ATOM = None
+CATEGORY_FEED_ATOM = None
+TRANSLATION_FEED_ATOM = None
+AUTHOR_FEED_ATOM = None
+AUTHOR_FEED_RSS = None
+
+# Uncomment following line if you want document-relative URLs when developing
+RELATIVE_URLS = True
