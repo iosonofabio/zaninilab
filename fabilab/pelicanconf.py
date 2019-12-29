@@ -31,6 +31,7 @@ PAGE_ORDER_BY = 'order'
 AVATAR = '/images/logo2.png'
 SUBLOGO = 'fabrication. algorithms. biomedicine. integrated.'
 SUMMARY_MAX_LENGTH = 0
+INDEX_SAVE_AS = 'news.html'
 
 
 # Feed generation is usually not desired when developing
