@@ -9,6 +9,7 @@ save_as: index.html
 
 **Integrating biomedicine, computer science and engineering, one cell at a time.**
 
+# Projects
 ## Single cell immunology of severe dengue
 Dengue is the most widespread mosquito-transmitted viral disease with 400 million infections every year. Millions of people including children and pregnant women suffer from severe symptoms such as internal bleeding and organ failure, but the pathogenesis of severe dengue is unclear. We are developing new single-cell transcriptomic approaches (experimental and computational) to understand what different parts of the immune system are doing during severe dengue.
 
