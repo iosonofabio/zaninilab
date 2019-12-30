@@ -165,7 +165,7 @@ aside > h2 {
   margin-left: -30px;
   margin-right: -30px;
   border: 1px solid #328cc7;
-  margin-top: 40px;
+  margin-top: 0px;
 }
 
 .nav > ul > li
@@ -178,6 +178,10 @@ aside > h2 {
     color: #fff;
     text-decoration: none;
     transition: all .3s ease-in-out;
+}
+
+#menuArrowDown {
+    display: none;
 }
 
 .nav a:hover
@@ -220,6 +224,12 @@ aside > h2 {
     margin-right: 0;
   }
 
+  #menuArrowDown {
+    display: block;
+    padding-bottom: 10px;
+  }
+
+
   body > article {
     margin: 0 auto;
     padding-top: 5px;
@@ -234,8 +244,8 @@ aside > h2 {
   }
 
   #avatar {
-    height: 50px;
-    width: 50px;
+    height: 150px;
+    width: 150px;
     margin: 10px auto;
   }
 }

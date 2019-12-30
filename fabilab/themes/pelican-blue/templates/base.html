@@ -66,9 +66,9 @@
       </script>
     {% endif %}
 
+    <div id="menuArrowDown"><img src="{{ SITEURL }}/theme/images/icons/arrowdown.svg" /></div>
     <nav class="nav">
       <ul class="list-bare">
-      
         {% for title, link in MENUITEMS %}
           <li><a class="nav__link" href="{{ link }}">{{ title }}</a></li>
         {% endfor %}
