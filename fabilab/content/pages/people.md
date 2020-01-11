@@ -5,14 +5,13 @@ order: 3
 date: 2019-12-02
 
 # Openings
-- **Honours** and **PhD students**: If you are enthusiastic about mixing computational and wet lab biomedicine, we want *you*!
+- **Postdoctoral researcher** position available (see [announcement](/postdocopening012020.html))
 
-- **Postdocs** with burning passion are always welcome.
+- **Honours** and **PhD student** positions available to work on mixed computational/molecular biology projects on viral infections, cancer, single cell bioengineering, cell atlases, and further projects. The sky is the limit.
 
-Especially if you are not a white male, please consider: let's make computational research **more diverse**!
+For inquiries, please contact Fabio at [fabio.zanini@unsw.edu.au](mailto:fabio.zanini@unsw.edu.au).
 
-
-Please contact Fabio at [fabio.zanini@unsw.edu.au](mailto:fabio.zanini@unsw.edu.au).
+We actively encourage people with **underrepresented backgrounds** (e.g. aboriginal descent, minority groups, LGBTQ) to apply and promise to create a **welcoming** learning environment irrespective of your social and moral background.
 
 # Principal Investigator
 ## Fabio Zanini

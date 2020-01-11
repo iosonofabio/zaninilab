@@ -7,6 +7,8 @@ javascripts: d3.min.js
 URL:
 save_as: index.html
 
+**OPEN POSTDOCTORAL POSITION** (see [announcement](postdocopening012020.html))
+
 **Integrating biomedicine, computer science and engineering, one cell at a time.**
 
 # Projects
