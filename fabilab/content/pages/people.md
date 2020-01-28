@@ -17,9 +17,19 @@ We actively encourage people with **underrepresented backgrounds** (e.g. aborigi
 ## Fabio Zanini
 ![Fabio Zanini]({static}/images/people/fabio_zanini.jpg)
 
-[**CV**]({static}/images/cv.pdf)
+[fabio DOT zanini AT unsw DOT edu DOT au](mailto:fabio.zanini@unsw.edu.au)
+
+[**CV**]({static}/images/fabio_zanini_cv.pdf)
 
 I love single cell assays, fighting viral infections, algorithms, and rock climbing.
+
+# Team
+## Yasir Kusay
+![Yasir Kusay]({static}/images/people/yasir_kusay.jpg)
+
+[y DOT kusay AT student DOT unsw DOT edu DOT au](mailto:y.kusay@student.unsw.edu.au)
+
+I am a third year Bioinformatics Engineering student with a passion for coding. I am interested in the clinical use of high-throughput sequencing as a diagnostic tool, especially for bacterial infections.
 
 # Collaborations
 - [Shirit Einav, Stanford University](http://med.stanford.edu/einavlab.html)
