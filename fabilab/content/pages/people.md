@@ -7,7 +7,7 @@ date: 2019-12-02
 # Openings
 - **Postdoctoral researcher** position available (see [announcement](/postdocopening012020.html))
 
-- **Honours** and **PhD student** positions available to work on mixed computational/molecular biology projects on viral infections, cancer, single cell bioengineering, cell atlases, and further projects. The sky is the limit.
+- **Honours** and **PhD student** positions available to work on mixed computational/molecular biology projects on viral infections, neonatal lung biology, cancer, single cell bioengineering, graph algorithms for cell atlases, and further projects. The sky is the limit.
 
 For inquiries, please contact Fabio at [fabio.zanini@unsw.edu.au](mailto:fabio.zanini@unsw.edu.au).
 
@@ -21,7 +21,7 @@ We actively encourage people with **underrepresented backgrounds** (e.g. aborigi
 
 [**CV**]({static}/images/fabio_zanini_cv.pdf)
 
-I love single cell assays, fighting viral infections, algorithms, and rock climbing.
+I love single cell assays, fighting viral infections, the immune system, and rock climbing.
 
 # Team
 ## Yasir Kusay
