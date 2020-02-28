@@ -6,7 +6,7 @@ modified: 2020-02-12
 javascripts: d3.min.js
 banner: images/blog/lung_immune_banner.png
 
-![opening](images/blog/lung_immune_banner.png)
+![opening](images/lung_immune.png)
 
 Our preprint with the Alvira and Cornfield labs is out! What happens to our lung immune cells when we inhale our first breath of air? Oxygen and pathogens!
 
