@@ -96,6 +96,12 @@ article > header {
   border-radius: 5px 5px;
 }
 
+.post_date {
+  text-align: right;
+  color: #174767;
+  text-transform: uppercase;
+}
+
 
 /* Links */;
 a  { color:#1DAEDF; text-decoration:none; }
