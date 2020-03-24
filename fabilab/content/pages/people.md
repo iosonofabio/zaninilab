@@ -51,4 +51,4 @@ Some friendly labs that are full of smart, kind people:
 ![A](/images/a.png) [bedford.io](https://bedford.io/)</br>
 ![B](/images/b.png) [Goo Lab](https://research.fhcrc.org/goo/en.html)</br>
 ![F](/images/f.png) [ciralab](http://www.ciralab.rowland.harvard.edu/)</br>
-
+![B](/images/b.png) [Bloom lab](https://research.fhcrc.org/bloom/en.html)</br>
