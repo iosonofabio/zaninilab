@@ -4,19 +4,6 @@ category: pages
 order: 3
 date: 2019-12-02
 
-# Joining the lab
-<!-- - **Postdocs**: we have one position available (see [announcement](/postdocopening012020.html)) for cell atlas construction. -->
-
-- **Postdocs**: Send a CV, a description of research interests, and the names and contact information for at least two references.
-
-- **PhD students**: We accept students from UNSW through the [Scientia](https://www.scientia.unsw.edu.au/scientia-phd-scholarships) and the [Graduate Research](https://research.unsw.edu.au/graduate-research-scholarships) programs. Write us with a CV and a page of research interests if you are unsure.
-
-- **Honours students**: We generally welcome candidates motivated to work on mixed computational/molecular biology projects on viral infections, neonatal lung biology, cancer, single cell bioengineering, graph algorithms for cell atlases, and further projects. The sky is the limit.
-
-For inquiries, please contact Fabio at [fabio.zanini@unsw.edu.au](mailto:fabio.zanini@unsw.edu.au).
-
-We actively encourage people with **underrepresented backgrounds** (e.g. aboriginal descent, minority groups, LGBTQ) to apply and promise to create a **welcoming** learning environment irrespective of your social and moral background.
-
 # Principal Investigator
 ## Fabio Zanini
 ![Fabio Zanini]({static}/images/people/fabio_zanini.jpg)
