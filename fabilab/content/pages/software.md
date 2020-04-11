@@ -17,3 +17,6 @@ Our software is **open source** and **well tested** via continuous integration a
 # Viral evolution
 - **[FFPopSim](http://webdav.tuebingen.mpg.de/ffpopsim/)**: forward simulations of viral genome evolution via Fast Fourier Transforms
 - **[hivwholeweb](https://github.com/neherlab/hivwholeweb)**: web application for intrapatient evolution of the human immunodeficiency virus (HIV)
+
+# Graph theory
+- **[igraph](https://igraph.org/)** (collaborative effort): Extremely efficient library for the analysis of graphs/networks
