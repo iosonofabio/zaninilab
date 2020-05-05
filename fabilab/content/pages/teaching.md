@@ -7,7 +7,7 @@ javascripts: d3.min.js
 
 
 # Lectures
-- [Scientific Programming in Python](https://drive.google.com/drive/folders/1Q7QpTqu6nJCcIQxHZrSMkpOVg1ZHHSLf?usp=sharing): April-May 2020, UNSW Lowy 2nd floor (**inofficial lecture**)
+- [Scientific Programming in Python](https://drive.google.com/drive/folders/1Q7QpTqu6nJCcIQxHZrSMkpOVg1ZHHSLf?usp=sharing): April-May 2020, UNSW Adult Cancer Program
 - [Single cell Rna-Seq and viruses](https://docs.google.com/presentation/d/1VY9fHmkmXEJ1f2TQx65qXzOWm5KsuXVwRg7-SLncgYA): April 2020, University of Sydney guest lecture
 
 # Talks
