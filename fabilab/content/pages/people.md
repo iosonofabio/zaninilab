@@ -12,15 +12,23 @@ date: 2019-12-02
 
 [**CV**]({static}/images/fabio_zanini_cv.pdf)
 
-I love single cell assays, fighting viral infections, the immune system, and rock climbing.
+I love single cell biology, fighting viral infections, the immune system, and rock climbing.
 
 # Team
+## Paula Klavina
+![Paula Klavina]({static}/images/people/paula_klavina.jpg)
+
+[klavinap AT tcd DOT ie](mailto:klavinap@tcd.ie)
+
+I am a third year biochemistry student visiting from [Trinity College Dublin](https://www.tcd.ie/Biochemistry/) and I am interested in molecular and single cell biology. I am excited to dig deeper and find out things about the human body that are still unknown. I am currently working on elucidating the role of stromal cells in the neonatal lung.
+
 ## Yasir Kusay
 ![Yasir Kusay]({static}/images/people/yasir_kusay.jpg)
 
 [y DOT kusay AT student DOT unsw DOT edu DOT au](mailto:y.kusay@student.unsw.edu.au)
 
-I am a third year Bioinformatics Engineering student with a passion for coding. I am interested in the clinical use of high-throughput sequencing as a diagnostic tool, especially for bacterial infections.
+I am a third year Bioinformatics Engineering student with a passion for coding. I am interested in the clinical use of high-throughput sequencing as a diagnostic tool, especially for bacterial infections. I am working on efficient network algorithms within the [igraph](https://igraph.org/) library.
+
 
 # Collaborations
 - [Shirit Einav, Stanford University](http://med.stanford.edu/einavlab.html)
