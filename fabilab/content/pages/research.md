@@ -19,6 +19,16 @@ No matter who you are, we all share one common experience: birth. **The lung is 
 - [R Domingo-Gonzales\*, F Zanini\*, et al. eLife (2020)](https://elifesciences.org/articles/56890).
 
 
+## Hybrid classification and clustering of single cell tumor samples
+![northstar]({static}/images/northstar.png)
+
+Cell atlases are huge collections of single cell transcriptomes that describe in extreme molecular detail the composition of human tissues. We are pioneering new algorithms to leverage cell atlases to rapidly elucidate the composition of tumor biopsies.
+
+
+#### References
+- [F Zanini\*, BA Berghuis\* et al. biorXiv (2019)](https://www.biorxiv.org/content/10.1101/820928v1) - **now accepted for publication!**.
+
+
 ## Single cell immunology of severe dengue
 ![Severe dengue]({static}/images/severe_dengue.png)
 
@@ -28,16 +38,6 @@ No matter who you are, we all share one common experience: birth. **The lung is 
 - [F Zanini\*, ML Robinson\* et al. PNAS (2018)](https://www.pnas.org/content/115/52/E12363).
 - [F Zanini\*, SY Pu\* et al. eLife (2018)](https://elifesciences.org/articles/32942).
 
-
-
-## Hybrid classification and clustering of single cell tumor samples
-![northstar]({static}/images/northstar.png)
-
-Cell atlases are huge collections of single cell transcriptomes that describe in extreme molecular detail the composition of human tissues. We are pioneering new algorithms to leverage cell atlases to rapidly elucidate the composition of tumor biopsies.
-
-
-#### References
-- [F Zanini\*, BA Berghuis\* et al. biorXiv (2019)](https://www.biorxiv.org/content/10.1101/820928v1).
 
 
 ## High-performance network analysis with igraph
