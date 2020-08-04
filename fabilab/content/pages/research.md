@@ -7,45 +7,33 @@ javascripts: d3.min.js
 URL:
 save_as: index.html
 
-**We are interesting in integrating biomedicine, computer science and engineering, one cell at a time.**
+### We give a voice to each single cell of the body to show that diversity is an asset, not a liability.
+
+#### OPEN POSITION for a PhD student on single cell sequencing and live cell imaging. See [details](pages/jointhelab).
 
 # Projects
-## A breath of fresh air: single cell biology of the neonatal lung
-![Neonatal lung immunity](images/lung_immune.png)
+[Fabilab](pages/contact) is driven by [people](pages/people), not [academic boundaries](https://en.wikipedia.org/wiki/Interdisciplinarity). We proudly work on biology, medicine, data science, computer science, network science and, sometimes, math.
 
-No matter who you are, we all share one common experience: birth. **The lung is a very special organ at birth**, because it lies deep inside our body yet it gets suddenly exposed to chemical and biological shock as soon as we take in our first breath of air. As reactive oxygen and pathogens fill the air cavities, lung cells have to rapidly adapt to conflicting requirements: maximizing access to gas, but minimizing the risk of virus and bacterial infection. Our lab is leveraging single cell technologies to explore the biology of this fascinating transition. A deeper understanding of this fundamental biological system will help us treat the lung conditions affecting thousands of newborn babies every year.
+## Biology of the neonatal lung
+![Neonatal lung immunity]({static}/images/research/lung_immune.png)
 
-#### References
-- [R Domingo-Gonzales\*, F Zanini\*, et al. eLife (2020)](https://elifesciences.org/articles/56890).
-
-
-## Hybrid classification and clustering of single cell tumor samples
-![northstar]({static}/images/northstar.png)
-
-Cell atlases are huge collections of single cell transcriptomes that describe in extreme molecular detail the composition of human tissues. We are pioneering new algorithms to leverage cell atlases to rapidly elucidate the composition of tumor biopsies.
+**The lung is a very special organ at birth**, carrying pathogens and chemically reactive oxygen right into the center of our bodies. Our lab is [mapping](https://elifesciences.org/articles/56890) the staggering cellular diversity characterizing neonatal lungs in terms of gene expression (left) and anatomical location (right). A deeper understanding of this fundamental biological system will help us treat the lung conditions affecting thousands of newborn babies every year, such as bronchopulmonary dysplasia.
 
 
-#### References
-- [F Zanini\*, BA Berghuis\* et al. biorXiv (2019)](https://www.biorxiv.org/content/10.1101/820928v1) - **now accepted for publication!**.
+## Immunology of severe dengue
+![Severe dengue]({static}/images/research/severe_dengue.png)
 
 
-## Single cell immunology of severe dengue
-![Severe dengue]({static}/images/severe_dengue.png)
-
-**Dengue** is the most widespread mosquito-transmitted viral disease with 400 million infections every year. Millions of people including children and pregnant women suffer from severe symptoms such as internal bleeding and organ failure, but the pathogenesis of severe dengue is unclear. The lab is developing new single-cell transcriptomic approaches (experimental and computational) to understand what different parts of the immune system are doing during severe dengue. We hope that our research will be useful to put an end to this global disease.
-
-#### References
-- [F Zanini\*, ML Robinson\* et al. PNAS (2018)](https://www.pnas.org/content/115/52/E12363).
-- [F Zanini\*, SY Pu\* et al. eLife (2018)](https://elifesciences.org/articles/32942).
+**Dengue** is the most widespread mosquito-transmitted viral disease with 400 million infections every year. We are developing [new](https://elifesciences.org/articles/32942) [approaches](https://www.pnas.org/content/115/52/E12363) to understand what different parts of the immune system are doing during severe dengue. We identified CD163 as a biomarker for severity in monocytes and patented [new antibodies](https://elifesciences.org/articles/52384) against dengue virus.
 
 
+## Graph clustering of tumor transcriptomes
+![northstar]({static}/images/research/northstar.png)
 
-## High-performance network analysis with igraph
-![igraph]({static}/images/igraph.png)
+**Cell atlases** are huge collections of single cell transcriptomes that describe in extreme molecular detail the composition of human tissues. We are pioneering [new algorithms](https://www.biorxiv.org/content/10.1101/820928v1) to leverage cell atlases to rapidly elucidate the composition of tumor biopsies.
 
-Graphs or networks are central tools to analyze single cell data in biomedicine. We are part of the core developement team at [igraph](https://igraph.org/), a high-performance network analysis tool that underpins many software packages in single cell biology and beyond.
 
-### References
-- [G Csardi, T Nepusz (2006)](https://www.researchgate.net/profile/Jesus_Cortes-Rodicio/post/Can_anyone_suggest_any_papers_about_bibliometric_software/attachment/59d61ddb79197b807797b0d5/AS:273730993885186@1442273962343/download/iGraph.pdf)
+## Network science
+![igraph]({static}/images/research/igraph.png)
 
-\*: co-first author.
+We develop [igraph](https://igraph.org/), a high-performance network analysis [tool](https://www.researchgate.net/profile/Jesus_Cortes-Rodicio/post/Can_anyone_suggest_any_papers_about_bibliometric_software/attachment/59d61ddb79197b807797b0d5/AS:273730993885186@1442273962343/download/iGraph.pdf) that underpins many software packages in single cell biology and beyond.

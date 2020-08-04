@@ -7,11 +7,20 @@ html {
 /* Titles */
 h1 { text-transform: uppercase }
 h1, h2 { 
-	font-weight: normal; 
-  margin-top: 10px;
+  font-weight: normal; 
+  margin-top: 23px;
   margin-bottom: 10px;
 }
 
+h3 {
+  font-size: 2em;
+  font-weight: 300;
+  line-height: 1.3;
+  text-align: center;
+  margin-top: 10px;
+  color: #444444;
+  margin-bottom: 50px;
+}
 
 .title
 {
@@ -104,10 +113,17 @@ article > header {
 
 
 /* Links */;
+/*
 a  { color:#1DAEDF; text-decoration:none; }
 a:visited { color:#1DAEDF; text-decoration:none; }
 a:link { color:#1DAEDF; text-decoration:none; }
 a:active { color:#1DAEDF; text-decoration:none; }
+a:hover { text-decoration: underline; }
+*/
+a  { color:#CC0066; text-decoration:none; }
+a:visited { color:#FF1A8C; text-decoration:none; }
+a:link { color:#FF1A8C; text-decoration:none; }
+a:active { color:#660033; text-decoration:none; }
 a:hover { text-decoration: underline; }
 
 /* Code */
@@ -117,6 +133,8 @@ a:hover { text-decoration: underline; }
 }
 
 /* Sidebar */
+#sidetitle { color:#1DAEDF; text-decoration:none; }
+
 aside {
   font-size: 14px;
   width: 220px; height: 100%;

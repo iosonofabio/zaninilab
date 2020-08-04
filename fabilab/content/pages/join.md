@@ -4,7 +4,10 @@ category: pages
 order: 5.1
 date: 2020-03-29
 
-# Joining the lab
+## OPEN POSITIONS
+ - **Funded PhD student position (Sydney, Australia)**: Combining live cell imaging and single cell sequencing to identify molecular signatures of antigen cross-presentation. This project is carried out in collaboration with the [Chtanova lab](https://www.garvan.org.au/people/tatcht) at the Garvan Institute of Medical Research and the [Lovell lab](https://research.unsw.edu.au/people/scientia-professor-nigel-lovell) at UNSW Engineering.
+
+## How to apply
 Contact Fabio at [fabio.zanini@unsw.edu.au](mailto:fabio.zanini@unsw.edu.au):
 <!-- - **Postdocs**: we have one position available (see [announcement](/postdocopening012020.html)) for cell atlas construction. -->
 
@@ -14,6 +17,4 @@ Contact Fabio at [fabio.zanini@unsw.edu.au](mailto:fabio.zanini@unsw.edu.au):
 
 - **Honours students**: We generally welcome candidates motivated to mix computational and molecular biology projects. Send one paragraph of research interest and one about your favourite lecture.
 
-![Rainbow flag]({static}/images/LGBT_Rainbow_Flag.png)
-
-We actively encourage people with **underrepresented backgrounds** (e.g. aboriginal descent, minority groups, LGBTQ) to apply and promise to create a **welcoming** learning environment irrespective of your social background.
+![Rainbow flag]({static}/images/LGBT_Rainbow_Flag_small.png) We actively encourage people with **underrepresented backgrounds** (e.g. of aboriginal or Torres Strait island descent, minority groups, LGBTQ) to apply and promise to create a **welcoming** learning environment irrespective of social background.
