@@ -23,7 +23,8 @@ I love single cell biology, data science, fighting viral infections, the immune 
 
 [yzhiyuan AT stanford DOT edu](mailto:yzhiyuan@stanford.edu)
 
-I am a postdoctoral scholar with an interest in biochemistry, virology, and single cell transcriptomics.
+I am a postdoctoral scholar with an interest in single cell biology and virology, especially using single cell transcriptomic tools
+to investigate virus-host interplay in severe dengue.
 
 ## Toni Rose Jue
 (co-advised with [Jeff Holst](https://medicalsciences.med.unsw.edu.au/people/associate-professor-jeff-holst) at UNSW)
