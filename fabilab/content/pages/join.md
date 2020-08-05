@@ -11,7 +11,7 @@ date: 2020-03-29
 Contact Fabio at [fabio.zanini@unsw.edu.au](mailto:fabio.zanini@unsw.edu.au):
 <!-- - **Postdocs**: we have one position available (see [announcement](/postdocopening012020.html)) for cell atlas construction. -->
 
-- **Postdocs**: Send a CV, a description of research interests, and the names and contact information for at least two references.
+- **Postdocs**: Send a CV, a description of research interests, and the names and contact information for at least two references. There are many fellowships [out there](https://asntech.github.io/postdoc-funding-schemes/).
 
 - **PhD students**: We accept students from UNSW through the [Scientia](https://www.scientia.unsw.edu.au/scientia-phd-scholarships) and the [Graduate Research](https://research.unsw.edu.au/graduate-research-scholarships) programs. Write us with a CV and a page of research interests if you are unsure.
 
