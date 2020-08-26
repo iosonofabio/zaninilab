@@ -9,7 +9,7 @@ save_as: index.html
 
 ### We give a voice to each single cell of the body to show that diversity is an asset, not a liability.
 
-#### OPEN POSITION for a PhD student on single cell sequencing and live cell imaging. See [details](pages/jointhelab).
+#### OPEN POSITIONS for two PhD students on (1) single cell sequencing and live cell imaging and (2) computational analysis of cell-cell communication networks. See [details](pages/jointhelab).
 
 # Projects
 [Fabilab](pages/contact) is driven by [people](pages/people), not [academic boundaries](https://en.wikipedia.org/wiki/Interdisciplinarity). We proudly work on biology, medicine, data science, computer science, network science and, sometimes, math.

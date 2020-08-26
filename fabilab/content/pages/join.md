@@ -5,7 +5,8 @@ order: 5.1
 date: 2020-03-29
 
 ## OPEN POSITIONS
- - **Funded PhD student position (Sydney, Australia)**: Combining live cell imaging and single cell sequencing to identify molecular signatures of antigen cross-presentation. This project is carried out in collaboration with the [Chtanova lab](https://www.garvan.org.au/people/tatcht) at the Garvan Institute of Medical Research and the [Lovell lab](https://research.unsw.edu.au/people/scientia-professor-nigel-lovell) at UNSW Engineering.
+ 1. **PhD student position (Sydney, Australia)**: Combining live cell imaging and single cell sequencing to identify molecular signatures of antigen cross-presentation. This project is carried out in collaboration with the [Chtanova lab](https://www.garvan.org.au/people/tatcht) at the Garvan Institute of Medical Research and the [Lovell lab](https://research.unsw.edu.au/people/scientia-professor-nigel-lovell) at UNSW Engineering.
+ 2. **PhD student position (Sydney, Australia)**: Computational analysis of cellular networks. This project is carried out in collaboration with the [Einav](http://med.stanford.edu/einavlab.html), [Alvira](http://med.stanford.edu/alviralab.html), and [Cornfield](http://med.stanford.edu/cornfieldlab/Home.html) labs at Stanford University and the [Powell](https://www.garvan.org.au/research/cancer/computational-genomics) lab at the Garvan Institute of Medical Research in Sydney.
 
 ## How to apply
 Contact Fabio at [fabio.zanini@unsw.edu.au](mailto:fabio.zanini@unsw.edu.au):
