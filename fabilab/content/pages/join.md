@@ -14,7 +14,7 @@ Contact Fabio at [fabio.zanini@unsw.edu.au](mailto:fabio.zanini@unsw.edu.au):
 
 - **Postdocs**: Send a CV, a description of research interests, and the names and contact information for at least two references. There are many fellowships [out there](https://asntech.github.io/postdoc-funding-schemes/).
 
-- **PhD students**: We accept students from UNSW through the [Scientia](https://www.scientia.unsw.edu.au/scientia-phd-scholarships) and the [Graduate Research](https://research.unsw.edu.au/graduate-research-scholarships) programs. Write us with a CV and a page of research interests if you are unsure.
+- **PhD students**: We accept students from UNSW through the [Scientia](https://www.scientia.unsw.edu.au/scientia-phd-scholarships) and the [Graduate Research](https://research.unsw.edu.au/graduate-research-scholarships) programs. Write Fabio with a CV and a page of research interests.
 
 - **Honours students**: We generally welcome candidates motivated to mix computational and molecular biology projects. Send one paragraph of research interest and one about your favourite lecture.
 
