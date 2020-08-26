@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
+# NOTE: THIS CONFIG FILE ONLY APPLIES TO PRODUCTION
 from __future__ import unicode_literals
 
 # This file is only used if you use `make publish` or
@@ -8,10 +9,10 @@ from __future__ import unicode_literals
 import os
 import sys
 sys.path.append(os.curdir)
+# Import config for local development and overwrite a bunch of things
 from pelicanconf import *
 
-# If your site is available via HTTPS, make sure SITEURL begins with https://
-SITEURL = 'https://www.fabilab.org'
+SITEURL = 'http://www.fabilab.org'
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'

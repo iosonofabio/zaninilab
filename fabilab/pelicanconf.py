@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
+# NOTE: THIS CONFIG FILE ONLY APPLIES TO LOCAL DEVELOPMENT
 AUTHOR = 'Fabio Zanini'
 SITENAME = 'fabilab'
-SITEURL = 'http://fabilab.org'
 TIMEZONE = 'Australia/Sydney'
 DEFAULT_LANG = 'en'
 
@@ -10,7 +10,9 @@ PATH = 'content'
 PAGE_PATHS = ['pages']
 ARTICLE_PATHS = ['posts']
 PLUGIN_PATHS = ['pelican-plugins']
-PLUGINS = ['pelican_javascript']
+PLUGINS = [
+#    'pelican_javascript',
+]
 
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),
@@ -41,5 +43,7 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-# Uncomment following line if you want document-relative URLs when developing
+# These two are overwritten in the publishconf.py, so it's ok to leave them
+# like this
+SITEURL = ''
 RELATIVE_URLS = True
