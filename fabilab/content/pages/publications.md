@@ -7,10 +7,10 @@ date: 2019-12-02
 # Papers
 \* = equal contribution
 ## 2020
+- F Zanini\*, BA Berghuis\* et al. [northstar: leveraging cell atlases to identify healthy and neoplastic cells in transcriptomes from human tumors](https://www.nature.com/articles/s41598-020-71805-1) (Scientific Reports)
 - R Domingo-Gonzales\*, F Zanini\*, et al. [Diverse homeostatic and immunomodulatory roles of immune cells in the developing mouse lung revealed at single cell resolution](https://elifesciences.org/articles/56890) (eLife)
 - Z Yao\*, F Zanini\*, et al. [The transcriptional landscale of Venezuelan equine encephalitis virus infection](https://www.biorxiv.org/content/10.1101/2020.02.18.955393v2) (bioRxiv)
 ## 2019
-- F Zanini\*, BA Berghuis\* et al. [northstar: leveraging cell atlases to identify healthy and neoplastic cells in transcriptomes from human tumors](https://www.biorxiv.org/content/10.1101/820928v1) (bioRxiv)
 - ND Durham, A Agrawal, E Waltari, D Croote, F Zanini et al. [Broadly neutralizing human antibodies against dengue virus identified by single B cell transcriptomics](https://elifesciences.org/articles/52384) (eLife)
 
 ## 2018
