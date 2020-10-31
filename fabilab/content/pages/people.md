@@ -16,6 +16,14 @@ date: 2019-12-02
 I love single cell biology, data science, fighting viral infections, the immune system, and rock climbing.
 
 # Team
+## Yike Xie
+![Yike Xie]({static}/images/people/yike_xie.jpg)
+
+[yike DOT xie AT unsw DOT edu DOT au](mailto:yike.xie@unsw.edu.au)
+
+I am a PhD student and my background is in pharmacy. My research interests are data analysis and single cell sequencing.
+Outside of work, I like reading and traveling.
+
 ## Zhiyuan Yao
 (co-advised with [Shirit Einav](https://med.stanford.edu/einavlab/people.html) at Stanford)
 
