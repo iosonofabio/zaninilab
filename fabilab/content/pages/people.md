@@ -16,13 +16,12 @@ date: 2019-12-02
 I love single cell biology, data science, fighting viral infections, the immune system, and rock climbing.
 
 # Team
-## Yike Xie
-![Yike Xie]({static}/images/people/yike_xie.jpg)
+## Kanu Wahi
+(co-supervised with [Jeff Holst](https://medicalsciences.med.unsw.edu.au/people/associate-professor-jeff-holst) at UNSW)
 
-[yike DOT xie AT unsw DOT edu DOT au](mailto:yike.xie@unsw.edu.au)
+![Kanu Wahi]({static}/images/people/kanu_wahi.jpg)
 
-I am a PhD student and my background is in pharmacy. My research interests are data analysis and single cell sequencing.
-Outside of work, I like reading and traveling.
+I am a postdoctoral research fellow with a keen interest in identifying resistance mechanisms in aggressive subtypes of breast cancer caused by dysregulation at the transcript level through to the metabolic level. Apart from work, I enjoy going for bike rides and bush walks.
 
 ## Zhiyuan Yao
 (co-advised with [Shirit Einav](https://med.stanford.edu/einavlab/people.html) at Stanford)
@@ -43,22 +42,27 @@ to investigate virus-host interplay in severe dengue.
 
 I am a postdoctoral scholar and my research interest revolve around the use of next generation sequencing technologies
 to understand the mechanisms of immunotherapeutic strategies for malignant primary brain tumours, specifically glioblastoma.
-Beyond work, I love travelling and exploring the outdoors with my husband and daughter. 
+Beyond work, I love travelling and exploring the outdoors with my husband and daughter.
 
-## Carsten Knutsen
-(co-advised with [Cristina Alvira](http://med.stanford.edu/alviralab/about.html) at Stanford)
+## Yike Xie
+![Yike Xie]({static}/images/people/yike_xie.jpg)
 
-![Carsten Knutsen]({static}/images/people/carsten_knutsen.jpg)
+[yike DOT xie AT unsw DOT edu DOT au](mailto:yike.xie@unsw.edu.au)
 
-[cknutsen AT stanford DOT edu](mailto:cknutsen@stanford.edu)
+I am a PhD student and my background is in pharmacy. My research interests are data analysis and single cell sequencing.
+Outside of work, I like reading and traveling.
 
-I am a life science research professional working on the role of mesenchymal cells in the neonatal lung.
-I am excited about studying and elucidating complex biological systems. I enjoy working with large datasets such as high-throughput screens and single-cell data.
-Outside of the lab, I like to spend my time mountain biking, rock climbing, and baking. 
+## Ying Xu
+![Ying Xu]({static}/images/people/ying_xu.jpg)
+
+[yingxu0928 AT gmail DOT com](mailto:yingxu0928@gmail.com)
+
+I am a 4th-year bioinformatics and biomedical engineering student at UNSW. I am currently working on a project to find antibodies for the dengue virus from B cell datasets. Outside of school, I like road trips and photography.
 
 # Alumni
-- [Paula Klavina](mailto:klavinap@tcd.ie): neonatal lung, now student @[Trinity College Dublin](https://www.tcd.ie/Biochemistry/)
-- [Yasir Kusay](mailto:y.kusay@student.unsw.edu.au): [igraph](https://igraph.org/) development, now student @[UNSW](https://www.unsw.edu.au/)
+- [Carsten Knutsen](mailto:cknutsen@stanford.edu): neonatal lung research professional, now research associate @[Recombinetics](https://recombinetics.com/). 
+- [Paula Klavina](mailto:klavinap@tcd.ie): neonatal lung intern, now student @[Trinity College Dublin](https://www.tcd.ie/Biochemistry/)
+- [Yasir Kusay](mailto:y.kusay@student.unsw.edu.au): [igraph](https://igraph.org/) development intern, now student @[UNSW](https://www.unsw.edu.au/)
 
 # Other collaborations
 - [David Cornfield, Stanford University](http://med.stanford.edu/cornfieldlab/Home.html)

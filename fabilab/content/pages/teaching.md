@@ -23,3 +23,6 @@ javascripts: d3.min.js
 
 # Posters
 - [Northstar](https://drive.google.com/file/d/1YH1hFtFajIdiJdnDJ577auEvCgNzFBRr): November 2019, Human Cell Atlas Asia Meeting, Singapore
+
+# Notes/books
+- [Exploring biomedical data](https://cloudstor.aarnet.edu.au/plus/s/kNi0zCUUsDJfIow/download): an introduction to students and postdocs with a wet lab background (2021)
