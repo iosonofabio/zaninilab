@@ -52,7 +52,14 @@ Beyond work, I love travelling and exploring the outdoors with my husband and da
 I am a PhD student and my background is in pharmacy. My research interests are data analysis and single cell sequencing.
 Outside of work, I like reading and traveling.
 
-## Ying Xu
+## Viraj Kapoor
+![Viraj Kapoor]({static}/images/people/viraj_kapoor.jpg)
+
+[virajkapoor729 AT gmail DOT com](mailto:virajkapoor729@gmail.com)
+
+I am a 4th-year medical student at UNSW, currently researching sex specific responses to hyperoxia in the neonatal lung. In my leisure time, I enjoy playing tennis and cricket as well as travelling. I am also a huge foodie and love watching movies. 
+
+## Ying (Christine) Xu
 ![Ying Xu]({static}/images/people/ying_xu.jpg)
 
 [yingxu0928 AT gmail DOT com](mailto:yingxu0928@gmail.com)
