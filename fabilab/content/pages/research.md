@@ -9,6 +9,8 @@ save_as: index.html
 
 ### We give a voice to each single cell of the body to show that diversity is an asset, not a liability.
 
+#### OPEN POSITION for a Postdoc shared with John Pimanda on blood cancers & stem cells. See [ad]({static}/images/Advertisement_13042021_2.docx.pdf).
+
 #### OPEN POSITION for a PhD student on "Building a standard model of cell biology". See [details](pages/jointhelab).
 
 # Projects

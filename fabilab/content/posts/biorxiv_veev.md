@@ -1,23 +1,14 @@
-title: Alphavirus infection preprint is out!
-slug: preprintveev2020
+title: Endothelial development preprint is out!
+slug: preprintendo2021
 category: blog
-date: 2020-02-29
-modified: 2020-02-29
+date: 2021-04-30
+modified: 2021-04-30
 javascripts: d3.min.js
-banner: images/blog/veev_banner.png
 
-![opening](images/veev.png)
+Our preprint on endothelial cell development in the neonatal lung is out!
 
-Our preprint on the landscape of Venezuelan equine encephalitis virus infection is out!
+[https://www.biorxiv.org/content/10.1101/2021.04.27.441649v1](https://www.biorxiv.org/content/10.1101/2021.04.27.441649v1)
 
-[https://www.biorxiv.org/content/10.1101/2020.02.18.955393v2](https://www.biorxiv.org/content/10.1101/2020.02.18.955393v2)
+While many single cell papers describe all endothelial cells in their data set as a single cluster of "vasuclar" cells, we focused specifically on those cells in the context of the mammalian neonatal lung and - guess what! - we discovered an amazing degree of interesting diversity.
 
-Venezuelan equine encephalitis virus (VEEV) is a human pathogen that has caused a number of large outbreaks in central and south America for more than a century. We used our viscRNA-Seq approach, previously applied to dengue and Zika viral infections to VEEV and found that
-
-- within 6 hours of inoculation, a few **"superproducer" cells** are already full of viral RNA
-- within 12 hours, most cells are **shutting down host gene expression** and only focus on viral production
-- within 24 hours, some **cells with upregulated intracellular trafficking genes are producing a lot more viral structural proteins** than enzymes, which is the optimal stoichiometry (in theory) to spread as much virus as possible.
-
-We also compared the changes in gene expression caused by VEEV with other viral infections and found that **each virus leaves a specific "signature" on the host transcriptome** that could be useful to reconstruct the cause of an unidentified infection.
-
-Thank you to all authors for their amazing work, and special thanks to Zhiyuan Yao (my co-first author) and Nuttada Panpradist (you're such a talented bioengineer!).
+Thank you to all authors for their amazing work, and special thanks to Cristina Alvira who did so much work on this!
