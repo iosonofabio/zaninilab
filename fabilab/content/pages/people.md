@@ -17,7 +17,7 @@ I love single cell biology, data science, fighting viral infections, the immune 
 
 # Team
 ## Kanu Wahi
-(co-supervised with [Jeff Holst](https://medicalsciences.med.unsw.edu.au/people/associate-professor-jeff-holst) at UNSW)
+(co-supervised with [Jeff Holst](https://medicalsciences.med.unsw.edu.au/people/associate-professor-jeff-holst) at UNSW and [Orazio Vittorio](https://www.ccia.org.au/molecular-targets-and-cancer-therapeutics/metal-targeted-therapy-and-immunology) at CCIA)
 
 ![Kanu Wahi]({static}/images/people/kanu_wahi.jpg)
 
@@ -59,14 +59,8 @@ Outside of work, I like reading and traveling.
 
 I am a 4th-year medical student at UNSW, currently researching sex specific responses to hyperoxia in the neonatal lung. In my leisure time, I enjoy playing tennis and cricket as well as travelling. I am also a huge foodie and love watching movies. 
 
-## Ying (Christine) Xu
-![Ying Xu]({static}/images/people/ying_xu.jpg)
-
-[yingxu0928 AT gmail DOT com](mailto:yingxu0928@gmail.com)
-
-I am a 4th-year bioinformatics and biomedical engineering student at UNSW. I am currently working on a project to find antibodies for the dengue virus from B cell datasets. Outside of school, I like road trips and photography.
-
 # Alumni
+- [Ying (Christine) Xu](mailto:yingxu0928@gmail.com): antibody repertoires in severe dengue
 - [Carsten Knutsen](mailto:cknutsen@stanford.edu): neonatal lung research professional, now research associate @[Recombinetics](https://recombinetics.com/). 
 - [Paula Klavina](mailto:klavinap@tcd.ie): neonatal lung intern, now student @[Trinity College Dublin](https://www.tcd.ie/Biochemistry/)
 - [Yasir Kusay](mailto:y.kusay@student.unsw.edu.au): [igraph](https://igraph.org/) development intern, now student @[UNSW](https://www.unsw.edu.au/)
