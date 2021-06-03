@@ -19,7 +19,7 @@ save_as: index.html
 ## Gene networks regulating leukemic cell state transitions
 ![Embedding AML cells]({static}/images/research/umap_aml.png)
 
-**Cancer cells are not equal in the face of therapeutics.** Within a single patient, even within a single Petri dish, heterogeneity in gene expression and function distinguishes more stem-like cells, that are more likely to cause relapse, from more differentiated cells. We are developing [data exploration techniques](https://www.biorxiv.org/content/10.1101/2020.10.26.353797v1.full) to reveal how the transition between these cancer cell states is regulated and how it can be perturbed chemically, with the vision to reduce relapse in acute myeloid leukemia (AML).
+**Cancer cells are not equal in the face of therapeutics.** Within a single patient, even within a single Petri dish, heterogeneity in gene expression and function distinguishes more stem-like cells, which are more likely to cause relapse, from more differentiated cells. We are developing [data exploration techniques](https://www.biorxiv.org/content/10.1101/2020.10.26.353797v1.full) to reveal how the transition between these cancer cell states is regulated and how it can be perturbed chemically, with the vision to reduce relapse in acute myeloid leukemia (AML).
 
 ## Biology of the neonatal lung
 ![Neonatal lung immunity]({static}/images/research/lung_immune.png)
@@ -43,4 +43,4 @@ save_as: index.html
 ## Network science
 ![igraph]({static}/images/research/igraph_with_plot.png)
 
-We develop [igraph](https://igraph.org/), a high-performance network analysis [tool](https://www.researchgate.net/profile/Jesus_Cortes-Rodicio/post/Can_anyone_suggest_any_papers_about_bibliometric_software/attachment/59d61ddb79197b807797b0d5/AS:273730993885186@1442273962343/download/iGraph.pdf) that underpins many software packages in single cell biology and beyond.
+**Graphs or networks are an essential mathematical object in modern systems biology.** Together with some [amazing](https://www.traag.net/) [folks](http://szhorvat.net/pelican/), we develop [igraph](https://igraph.org/), a high-performance network analysis [tool](https://www.researchgate.net/profile/Jesus_Cortes-Rodicio/post/Can_anyone_suggest_any_papers_about_bibliometric_software/attachment/59d61ddb79197b807797b0d5/AS:273730993885186@1442273962343/download/iGraph.pdf) that underpins many software packages in single cell biology and beyond.
