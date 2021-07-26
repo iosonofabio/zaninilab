@@ -7,6 +7,7 @@ javascripts: d3.min.js
 
 
 # Lectures
+- [Data Analysis for beginners](https://cloudstor.aarnet.edu.au/plus/s/NiRRHtC1C33Kzyv): July 2021, UNSW and CCIA
 - [Scientific Programming in Python, beginner](https://cloudstor.aarnet.edu.au/plus/s/QkuFmKL1aFTLggj): August-October 2020, UNSW Medicine and CCIA
 - [Scientific Programming in Python](https://drive.google.com/drive/folders/1Q7QpTqu6nJCcIQxHZrSMkpOVg1ZHHSLf?usp=sharing): April-May 2020, UNSW Adult Cancer Program
 - [Single cell Rna-Seq and viruses](https://docs.google.com/presentation/d/1VY9fHmkmXEJ1f2TQx65qXzOWm5KsuXVwRg7-SLncgYA): April 2020, University of Sydney guest lecture
