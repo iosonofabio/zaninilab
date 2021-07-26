@@ -13,6 +13,8 @@ javascripts: d3.min.js
 - [Single cell Rna-Seq and viruses](https://docs.google.com/presentation/d/1VY9fHmkmXEJ1f2TQx65qXzOWm5KsuXVwRg7-SLncgYA): April 2020, University of Sydney guest lecture
 
 # Talks
+- [Northstar goes South](https://cloudstor.aarnet.edu.au/plus/s/PmjsR5tOy0cnvaa/download) May 2021, Quake lab alumni retreat
+- [Cell atlases: types, subtypes, states... and outliers?](https://cloudstor.aarnet.edu.au/plus/s/KnOkYpy2dIQVjTC/download) (invited talk) April 2021, RMIT University
 - [Hypothesis generation in the age of cell atlases](https://cloudstor.aarnet.edu.au/plus/s/ypozP93XV82wd7l/download) (invited talk) Nov 2020, [ABACBS conference 2020](https://abacbs2020.abacbs.org/) ([video](https://abacbs2020.abacbs.org/Hypothesis-generation-in-the-age-of-cell-atlases/), [summary](https://cloudstor.aarnet.edu.au/plus/s/OouOQbPkXKnTD5I))
 - [The art of generating hypotheses from single cell data](https://cloudstor.aarnet.edu.au/plus/s/dbVcKb6SaDHmzyB/download) (invited talk) Oct 2020, Sydney Uni [biostatistics seminar](https://www.maths.usyd.edu.au/u/SemConf/StatisticalBioinformatics.html)
 - [Clustering or classification?](https://cloudstor.aarnet.edu.au/plus/s/saMxHkpT3fLz0BG/download) (invited talk) Oct 2020, Canadian [University Health Network](https://www.uhnresearch.ca/) seminar
