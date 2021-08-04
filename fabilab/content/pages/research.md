@@ -9,9 +9,7 @@ save_as: index.html
 
 ### We give a voice to each single cell of the body to show that diversity is an asset, not a liability.
 
-#### OPEN POSITION for a Postdoc shared with John Pimanda on blood cancers & stem cells. See [ad]({static}/images/Advertisement_13042021_2.docx.pdf).
-
-#### OPEN POSITION for a PhD student on "Building a standard model of cell biology". See [details](pages/jointhelab.html).
+#### OPEN POSITION for a master/honours/PhD stuent shared with [Amandine Schaeffer](http://www.oceanography.unsw.edu.au/) on gene stealing in bluebottle jellyfish. [Project description]({static}/images/bluebottle_single_cell_project.pdf)
 
 # Projects
 [Fabilab](pages/contact.html) is driven by [people](pages/people.html), not [academic boundaries](https://en.wikipedia.org/wiki/Interdisciplinarity). We proudly work on biology, medicine, data science, computer science, network science and, sometimes, math.

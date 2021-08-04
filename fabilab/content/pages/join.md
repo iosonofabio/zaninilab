@@ -5,9 +5,8 @@ order: 5.1
 date: 2020-03-29
 
 ## OPEN POSITIONS
- 1. **Postdoc position (Sydney, Australia -- remote start possible)** to work on blood cancers, induced pluripotent stem cells, single cell multi-omics, and a number of other really exciting biomedical systems. The ideal candidate has some experience with single cell data analysis, understanding of linear algebra and/or network analysis, and is interested in leading their own research agenda. [Ad here]({static}/images/Advertisement_13042021_2.docx.pdf), write Fabio for inquiries. 
+ **Master/honours/PhD student position (Sydney, Australia)**: "Gene thieves: how a nudibranch incorporates the stinging cells of the Bluebottle jellyfish". This project, with co-supervision by [Amandine Schaeffer](http://www.oceanography.unsw.edu.au/), aims to understand the evolutionary adaptation of gene stealing in bluebottle jellyfish and blue sea dragons. [Project description]({static}/images/bluebottle_single_cell_project.pdf)
 
- 2. **PhD student position (Sydney, Australia - remote commencement possible)**: "Building a standard model of cell biology". Half a century ago, the standard model of particle physics was established, which rests all natural phenomena in the universe on a handful of elementary particles and on the interactions between them. We aim to develop a similarly ambitious program for organismal biology by *characterising all known cell types in the body and all interactions between them* with a bottom-up approach. Although the complexity of the human body is staggering, surely it cannot compete with the complexity of the whole universe? Time to find out.
 
 ## How to apply
 Contact Fabio at [fabio.zanini@unsw.edu.au](mailto:fabio.zanini@unsw.edu.au):
