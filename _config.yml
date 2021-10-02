@@ -4,7 +4,7 @@ lsi: false
 incremental: false
 kramdown:
   math_engine: mathjax
-url: "http://fabilab.org"
+url: "https://fabilab.org"
 defaults:
   -
     scope:
