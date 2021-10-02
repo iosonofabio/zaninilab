@@ -1,16 +1,10 @@
 name: fabilab
-destination: fabilab/output
+destination: docs
 lsi: false
-safe: true
-source: fabilab
 incremental: false
-highlighter: rouge
-gist:
-  noscript: false
 kramdown:
   math_engine: mathjax
-  syntax_highlighter: rouge
-url: "https:/fabilab.org"
+url: "http://fabilab.org"
 defaults:
   -
     scope:
