@@ -12,7 +12,8 @@ sys.path.append(os.curdir)
 # Import config for local development and overwrite a bunch of things
 from pelicanconf import *
 
-SITEURL = 'http://www.fabilab.org'
+#SITEURL = 'http://www.fabilab.org'
+SITEURL = 'https://iosonofabio.github.io/zaninilab'
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
