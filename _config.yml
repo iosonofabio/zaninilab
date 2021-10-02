@@ -1,0 +1,17 @@
+name: fabilab
+destination: fabilab/output
+lsi: false
+safe: true
+source: fabilab
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+url: "https:/fabilab.org"
+defaults:
+  -
+    scope:
+      path: ""
