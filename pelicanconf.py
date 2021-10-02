@@ -7,6 +7,7 @@ TIMEZONE = 'Australia/Sydney'
 DEFAULT_LANG = 'en'
 
 PATH = 'content'
+OUTPUT_PATH = 'docs/'
 PAGE_PATHS = ['pages']
 ARTICLE_PATHS = ['posts']
 PLUGIN_PATHS = ['pelican-plugins']
