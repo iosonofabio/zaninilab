@@ -13,7 +13,7 @@
 
   <!-- schema.org -->
   <meta itemprop="name" content="{{ SITENAME }}">
-  <meta itemprop="image" content="{{ AVATAR}}">
+  <meta itemprop="image" content="{{ SITEURL }}{{ AVATAR }}">
   <meta itemprop="description" content="{{ AUTHOR_DESCRIPTION }}">
 
   <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
@@ -39,7 +39,7 @@
 <body>
   <!-- Sidebar -->
   <aside>
-    <center><a href="{{ SITEURL }}"><img id="avatar" src="{{ AVATAR }}"></a></center>
+    <center><a href="{{ SITEURL }}"><img id="avatar" src="{{ SITEURL }}{{ AVATAR }}"></a></center>
     <h1><a id="sidetitle" href={{ SITEURL }}>{{ SITENAME }}</a></h1>
     <div class="logosub">{{ SUBLOGO }}</div>
     {% if SIDEBAR_DIGEST %}

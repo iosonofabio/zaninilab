@@ -31,10 +31,10 @@ DISPLAY_CATEGORIES_ON_MENU = True
 LOAD_CONTENT_CACHE = False
 TYPOGRIFY = True
 PAGE_ORDER_BY = 'order'
-AVATAR = '/images/logo2.png'
 SUBLOGO = 'Data driven biomedicine<br>UNSW SYDNEY, AUSTRALIA'
 SUMMARY_MAX_LENGTH = 0
 INDEX_SAVE_AS = 'news.html'
+AVATAR = '/images/logo2.png'
 FAVICON = '/images/favicon.ico'
 
 # Feed generation is usually not desired when developing
