@@ -6,13 +6,18 @@ date: 2019-12-02
 
 # Papers
 \* = equal contribution
+
 ## 2021
+- F Zanini et al. [Progressive Increases in Mesenchymal Cell Diversity Modulate Lung Development and are Attenuated by Hyperoxia](https://www.biorxiv.org/content/10.1101/2021.05.19.444776v1.full) (bioRxiv)
 - F Zanini et al. [Phenotypic diversity and sensitivity to injury of the pulmonary endothelium during a period of rapid postnatal growth](https://www.biorxiv.org/content/10.1101/2021.04.27.441649v1) (bioRxiv)
+- J Thoms et al. F Zanini\*, JE Pimanda\* [Disruption of a GATA2, TAL1, ERG regulatory circuit promotes erythroid transition in healthy and leukemic stem cells](https://ashpublications.org/blood/article-abstract/doi/10.1182/blood.2020009707/476046/Disruption-of-a-GATA2-TAL1-ERG-regulatory-circuit?redirectedFrom=fulltext) (Blood)
 - Z Yao\*, F Zanini\*, et al. [The transcriptional landscale of Venezuelan equine encephalitis virus infection](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0009306) (PLOS Neglected Tropical Diseases)
+
 ## 2020
-- J Thoms et al. F Zanini\*, JE Pimanda\* [Disruption of a GATA2, TAL1, ERG regulatory circuit promotes erythroid transition in healthy and leukemic stem cells](https://www.biorxiv.org/content/10.1101/2020.10.26.353797v1) (bioRxiv)
 - F Zanini\*, BA Berghuis\* et al. [northstar: leveraging cell atlases to identify healthy and neoplastic cells in transcriptomes from human tumors](https://www.nature.com/articles/s41598-020-71805-1) (Scientific Reports)
 - R Domingo-Gonzales\*, F Zanini\*, et al. [Diverse homeostatic and immunomodulatory roles of immune cells in the developing mouse lung revealed at single cell resolution](https://elifesciences.org/articles/56890) (eLife)
+- Tabula Muris Consortium (including F Zanini). [A single-cell transcriptomic atlas characterizes ageing tissues in the mouse](https://www.nature.com/articles/s41586-020-2496-1) (Nature)
+
 ## 2019
 - ND Durham, A Agrawal, E Waltari, D Croote, F Zanini et al. [Broadly neutralizing human antibodies against dengue virus identified by single B cell transcriptomics](https://elifesciences.org/articles/52384) (eLife)
 

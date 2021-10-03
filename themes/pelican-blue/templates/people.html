@@ -1,4 +1,7 @@
 {% extends "base.html" %}
+{% block morecss %}
+  <link rel="stylesheet" href="{{ SITEURL }}/theme/css/people.css" type="text/css" />
+{% endblock %}
 {% block title %}{{ page.title }}{% endblock %}
 {% block content %}
 <section id="content" class="body">
@@ -8,10 +11,6 @@
                         get the pdf
                 </a>
         {% endif %}
-
-        <!-- first block is the PI, keep that -->
-        
-        <!-- other folks, put several per row, depending on media width -->
 
         {{ page.content }}
 </section>

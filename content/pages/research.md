@@ -11,13 +11,13 @@ save_as: index.html
 
 #### OPEN POSITION for a master/honours/PhD stuent shared with [Amandine Schaeffer](http://www.oceanography.unsw.edu.au/) on gene stealing in bluebottle jellyfish. [Project description]({static}/images/bluebottle_single_cell_project.pdf)
 
-# Projects
+# Research
 [Fabilab](pages/contact.html) is driven by [people](pages/people.html), not [academic boundaries](https://en.wikipedia.org/wiki/Interdisciplinarity). We proudly work on biology, medicine, data science, computer science, network science and, sometimes, math.
 
 ## Gene networks regulating leukemic cell state transitions
 ![Embedding AML cells]({static}/images/research/umap_aml.png)
 
-**Cancer cells are not equal in the face of therapeutics.** Within a single patient, even within a single Petri dish, heterogeneity in gene expression and function distinguishes more stem-like cells, which are more likely to cause relapse, from more differentiated cells. We are developing [data exploration techniques](https://www.biorxiv.org/content/10.1101/2020.10.26.353797v1.full) to reveal how the transition between these cancer cell states is regulated and how it can be perturbed chemically, with the vision to reduce relapse in acute myeloid leukemia (AML).
+**Cancer cells are not equal in the face of therapeutics.** Within a single patient, even within a single Petri dish, heterogeneity in gene expression and function distinguishes more stem-like cells, which are more likely to cause relapse, from more differentiated cells. Using our [northstar](https://www.nature.com/articles/s41598-020-71805-1) algoritm, we developed [data exploration techniques](https://ashpublications.org/blood/article-abstract/doi/10.1182/blood.2020009707/476046/Disruption-of-a-GATA2-TAL1-ERG-regulatory-circuit?redirectedFrom=fulltext) to reveal how the transition between these cancer cell states is regulated and how it can be perturbed chemically, with the vision to reduce relapse in acute myeloid leukemia (AML).
 
 ## Biology of the neonatal lung
 ![Neonatal lung immunity]({static}/images/research/lung_immune.png)
