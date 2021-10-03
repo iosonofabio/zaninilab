@@ -5,9 +5,16 @@ order: 3
 date: 2019-12-02
 template: people
 
+<div class="team-container">
 
-<div class="PI">
-<h1>Principal Investigator</h1>
+<!--
+<h1>Team</h1>
+-->
+
+<div class="team">
+
+<div class="lab-member">
+
 <h2>Fabio Zanini</h2>
 <p><img alt="Fabio Zanini" src="../images/people/fabio_zanini.jpg"></p>
 <p><a href="mailto:fabio.zanini@unsw.edu.au">fabio <span class="caps">DOT</span> zanini <span class="caps">AT</span> unsw <span class="caps">DOT</span> edu <span class="caps">DOT</span>&nbsp;au</a></p>
@@ -15,11 +22,68 @@ template: people
 <li><a href="../images/fabio_zanini_cv.pdf"><strong>Curriculum&nbsp;Vitae</strong></a></li>
 <li><a href="https://research.unsw.edu.au/people/dr-fabio-zanini"><strong><span class="caps">UNSW</span>&nbsp;profile</strong></a></li>
 </ul>
-<p>I love single cell biology, data science, fighting viral infections, the immune system, and rock&nbsp;climbing.</p>
+<p>I love single cell biology, data science, graphs, coding, fighting viral infections, the immune system, and rock&nbsp;climbing.</p>
 
 </div>
 
-<!-- 
+<div class="lab-member">
+<h2>Kanu&nbsp;Wahi</h2>
+<p>co-supervised: <a href="https://medicalsciences.med.unsw.edu.au/people/associate-professor-jeff-holst">Jeff Holst</a> and <a href="https://www.ccia.org.au/molecular-targets-and-cancer-therapeutics/metal-targeted-therapy-and-immunology">Orazio Vittorio</a></p>
+<p><img alt="Kanu Wahi" src="../images/people/kanu_wahi.jpg"></p>
+<p><a href="mailto:k.wahi@unsw.edu.au">k <span class="caps">DOT</span> wahi <span class="caps">AT</span> unsw <span class="caps">DOT</span> edu <span class="caps">DOT</span> au</a></p>
+<p>I am a postdoctoral research fellow with a keen interest in identifying resistance mechanisms in aggressive subtypes of breast cancer caused by dysregulation at the transcript level through to the metabolic level. Apart from work, I enjoy going for bike rides and bush walks.</p>
+</div>
+
+<div class="lab-member">
+<h2>Zhiyuan&nbsp;Yao</h2>
+<p>co-supervised: <a href="https://med.stanford.edu/einavlab/people.html">Shirit Einav</a> @&nbsp;Stanford</p>
+<p><img alt="Zhiyuan Yao" src="../images/people/zhiyuan_yao.jpg"></p>
+<p><a href="mailto:yzhiyuan@stanford.edu">yzhiyuan <span class="caps">AT</span> stanford <span class="caps">DOT</span>&nbsp;edu</a></p>
+<p>I am a postdoctoral scholar with an interest in single cell biology and virology, especially using single cell transcriptomic tools
+to investigate virus-host interplay in severe&nbsp;dengue.</p>
+</div>
+
+<div class="lab-member">
+<h2>Toni Rose&nbsp;Jue</h2>
+<p>co-supervised: <a href="https://medicalsciences.med.unsw.edu.au/people/associate-professor-jeff-holst">Jeff Holst</a></p>
+<p><img alt="Toni Rose Jue" src="../images/people/toni_rose_jue.jpg"></p>
+<p><a href="mailto:t.jue@unsw.edu.au">t <span class="caps">DOT</span> jue <span class="caps">AT</span> unsw <span class="caps">DOT</span> edu <span class="caps">DOT</span>&nbsp;au</a></p>
+<p>I am a postdoctoral scholar and my research interest revolve around the use of next generation sequencing technologies
+to understand the mechanisms of immunotherapeutic strategies for malignant primary brain tumours, specifically glioblastoma.
+Beyond work, I love travelling and exploring the outdoors with my husband and&nbsp;daughter.</p>
+</div>
+
+<div class="lab-member">
+<h2>Yike&nbsp;Xie</h2>
+<p><img alt="Yike Xie" src="../images/people/yike_xie.jpg"></p>
+<p><a href="mailto:yike.xie@unsw.edu.au">yike <span class="caps">DOT</span> xie <span class="caps">AT</span> unsw <span class="caps">DOT</span> edu <span class="caps">DOT</span>&nbsp;au</a></p>
+<p>I am a PhD student and my background is in pharmacy. My research interests are data analysis and single cell sequencing.
+Outside of work, I like reading and&nbsp;traveling.</p>
+</div>
+
+
+<div class="lab-member">
+<h2>Viraj&nbsp;Kapoor</h2>
+<p><img alt="Viraj Kapoor" src="../images/people/viraj_kapoor.jpg"></p>
+<p><a href="mailto:virajkapoor729@gmail.com">virajkapoor729 <span class="caps">AT</span> gmail <span class="caps">DOT</span>&nbsp;com</a></p>
+<p>I am a 4th-year medical student at <span class="caps">UNSW</span>, currently researching sex specific responses to hyperoxia in the neonatal lung. In my leisure time, I enjoy playing tennis and cricket as well as travelling. I am also a huge foodie and love watching&nbsp;movies. </p>
+</div>
+
+<div class="lab-member">
+<h2>Carsten&nbsp;Knutsen</h2>
+<p>co-supervised: <a href="https://med.stanford.edu/alviralab/about.html">Cristina Alvira</a> @&nbsp;Stanford</p>
+<p><img alt="Karsten Knutsen" src="../images/people/carsten_knutsen.jpg"></p>
+<p><a href="mailto:cknutsen@stanford.edu">cnutsen <span class="caps">AT</span> stanford <span class="caps">DOT</span>&nbsp;edu</a></p>
+I am excited about studying and elucidating complex biological systems. I enjoy working with large datasets such as high-throughput screens and single-cell data. Outside of the lab, I like to spend my time mountain biking, rock climbing, and baking.<p>
+</div>
+
+</div>
+
+</div>
+
+<!--
+
+
 # Principal Investigator
 ## Fabio Zanini
 ![Fabio Zanini]({static}/images/people/fabio_zanini.jpg)
@@ -30,58 +94,6 @@ template: people
 - [**UNSW profile**](https://research.unsw.edu.au/people/dr-fabio-zanini)
 
 I love single cell biology, data science, fighting viral infections, the immune system, and rock climbing.
-
--->
-
-<div class="Team">
-
-<h1>Team</h1>
-
-<div class="labmember">
-<h2>Kanu&nbsp;Wahi</h2>
-<p>(co-supervised with <a href="https://medicalsciences.med.unsw.edu.au/people/associate-professor-jeff-holst">Jeff Holst</a> at <span class="caps">UNSW</span> and <a href="https://www.ccia.org.au/molecular-targets-and-cancer-therapeutics/metal-targeted-therapy-and-immunology">Orazio Vittorio</a> at <span class="caps">CCIA</span>)</p>
-<p><img alt="Kanu Wahi" src="../images/people/kanu_wahi.jpg"></p>
-<p>I am a postdoctoral research fellow with a keen interest in identifying resistance mechanisms in aggressive subtypes of breast cancer caused by dysregulation at the transcript level through to the metabolic level. Apart from work, I enjoy going for bike rides and bush walks.</p>
-</div>
-
-<div class="labmember">
-<h2>Zhiyuan&nbsp;Yao</h2>
-<p>(co-advised with <a href="https://med.stanford.edu/einavlab/people.html">Shirit Einav</a> at&nbsp;Stanford)</p>
-<p><img alt="Zhiyuan Yao" src="../images/people/zhiyuan_yao.jpg"></p>
-<p><a href="mailto:yzhiyuan@stanford.edu">yzhiyuan <span class="caps">AT</span> stanford <span class="caps">DOT</span>&nbsp;edu</a></p>
-<p>I am a postdoctoral scholar with an interest in single cell biology and virology, especially using single cell transcriptomic tools
-to investigate virus-host interplay in severe&nbsp;dengue.</p>
-</div>
-
-<div class="labmember">
-<h2>Toni Rose&nbsp;Jue</h2>
-<p>(co-advised with <a href="https://medicalsciences.med.unsw.edu.au/people/associate-professor-jeff-holst">Jeff Holst</a> at <span class="caps">UNSW</span>)</p>
-<p><img alt="Toni Rose Jue" src="../images/people/toni_rose_jue.jpg"></p>
-<p><a href="mailto:t.jue@unsw.edu.au">t <span class="caps">DOT</span> jue <span class="caps">AT</span> unsw <span class="caps">DOT</span> edu <span class="caps">DOT</span>&nbsp;au</a></p>
-<p>I am a postdoctoral scholar and my research interest revolve around the use of next generation sequencing technologies
-to understand the mechanisms of immunotherapeutic strategies for malignant primary brain tumours, specifically glioblastoma.
-Beyond work, I love travelling and exploring the outdoors with my husband and&nbsp;daughter.</p>
-</div>
-
-<div class="labmember">
-<h2>Yike&nbsp;Xie</h2>
-<p><img alt="Yike Xie" src="../images/people/yike_xie.jpg"></p>
-<p><a href="mailto:yike.xie@unsw.edu.au">yike <span class="caps">DOT</span> xie <span class="caps">AT</span> unsw <span class="caps">DOT</span> edu <span class="caps">DOT</span>&nbsp;au</a></p>
-<p>I am a PhD student and my background is in pharmacy. My research interests are data analysis and single cell sequencing.
-Outside of work, I like reading and&nbsp;traveling.</p>
-</div>
-
-
-<div class="labmember">
-<h2>Viraj&nbsp;Kapoor</h2>
-<p><img alt="Viraj Kapoor" src="../images/people/viraj_kapoor.jpg"></p>
-<p><a href="mailto:virajkapoor729@gmail.com">virajkapoor729 <span class="caps">AT</span> gmail <span class="caps">DOT</span>&nbsp;com</a></p>
-<p>I am a 4th-year medical student at <span class="caps">UNSW</span>, currently researching sex specific responses to hyperoxia in the neonatal lung. In my leisure time, I enjoy playing tennis and cricket as well as travelling. I am also a huge foodie and love watching&nbsp;movies. </p>
-</div>
-
-</div>
-
-<!--
 
 # Team
 ## Kanu Wahi

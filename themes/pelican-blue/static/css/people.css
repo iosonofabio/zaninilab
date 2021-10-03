@@ -1,0 +1,14 @@
+/*--------Responsive------------*/
+
+
+  .team {
+    display: flex; 
+    flex-flow: row wrap;
+  }
+
+ .lab-member {
+   display: block;
+   width: 330px;
+   padding: 10px;
+ }
+
