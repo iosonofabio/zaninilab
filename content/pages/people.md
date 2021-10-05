@@ -142,7 +142,7 @@ I am a 4th-year medical student at UNSW, currently researching sex specific resp
 -->
 
 # Alumni
-- [Ying (Christine) Xu](mailto:yingxu0928@gmail.com): antibody repertoires in severe dengue
+- [Ying (Christine) Xu](mailto:yingxu0928@gmail.com): dengue antibody intern, now student at @[UNSW](https://www.unsw.edu.au/).
 - [Carsten Knutsen](mailto:cknutsen@stanford.edu): neonatal lung research professional, then research associate @[Recombinetics](https://recombinetics.com/) (now back with us!). 
 - [Paula Klavina](mailto:klavinap@tcd.ie): neonatal lung intern, now PhD student @[RCSI (Ireland)](https://www.rcsi.com/)
 - [Yasir Kusay](mailto:y.kusay@student.unsw.edu.au): [igraph](https://igraph.org/) development intern, now student @[UNSW](https://www.unsw.edu.au/)
