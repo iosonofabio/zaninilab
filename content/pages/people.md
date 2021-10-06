@@ -27,6 +27,14 @@ template: people
 </div>
 
 <div class="lab-member">
+<h2>Givanna&nbsp;Putri</h2>
+<p>co-supervised: <a href="https://medicalsciences.med.unsw.edu.au/people/associate-professor-john-pimanda">John Pimanda</a></p>
+<p><img alt="Givanna Putri" src="../images/people/givanna_putri.jpg"></p>
+<p><a href="mailto:g.putri@unsw.edu.au">g <span class="caps">DOT</span> putri <span class="caps">AT</span> unsw <span class="caps">DOT</span> edu <span class="caps">DOT</span> au</a></p>
+<p>I am a postdoctoral research fellow with passion for single cell omics and computational biology, specifically using data science techniques to analyse multi-omics data and investigate biological system. When not working, I enjoy mountain biking, painting, travelling, and listening to blues and jazz music.</p>
+</div>
+
+<div class="lab-member">
 <h2>Kanu&nbsp;Wahi</h2>
 <p>co-supervised: <a href="https://medicalsciences.med.unsw.edu.au/people/associate-professor-jeff-holst">Jeff Holst</a> and <a href="https://www.ccia.org.au/molecular-targets-and-cancer-therapeutics/metal-targeted-therapy-and-immunology">Orazio Vittorio</a></p>
 <p><img alt="Kanu Wahi" src="../images/people/kanu_wahi.jpg"></p>
