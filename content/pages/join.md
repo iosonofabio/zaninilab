@@ -7,6 +7,8 @@ date: 2020-03-29
 ## OPEN POSITIONS
  **Master/honours/PhD student position (Sydney, Australia)**: "Gene thieves: how a nudibranch incorporates the stinging cells of the Bluebottle jellyfish". This project, with co-supervision by [Amandine Schaeffer](http://www.oceanography.unsw.edu.au/), aims to understand the evolutionary adaptation of gene stealing in bluebottle jellyfish and blue sea dragons. [Project description]({static}/images/bluebottle_single_cell_project.pdf)
 
+ **Paid intern position (Sydney, Australia)**: "Interactive network analysis charts in igraph and Python". Nov 2021-Jan 2022 [Project description]({static}/images/intern_fabilab_igraph_2021.pdf)
+
 
 ## How to apply
 Contact Fabio at [fabio.zanini@unsw.edu.au](mailto:fabio.zanini@unsw.edu.au):
