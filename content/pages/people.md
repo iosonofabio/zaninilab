@@ -71,13 +71,6 @@ Outside of work, I like reading and&nbsp;traveling.</p>
 
 
 <div class="lab-member">
-<h2>Viraj&nbsp;Kapoor</h2>
-<p><img alt="Viraj Kapoor" src="../images/people/viraj_kapoor.jpg"></p>
-<p><a href="mailto:virajkapoor729@gmail.com">virajkapoor729 <span class="caps">AT</span> gmail <span class="caps">DOT</span>&nbsp;com</a></p>
-<p>I am a 4th-year medical student at <span class="caps">UNSW</span>, currently researching sex specific responses to hyperoxia in the neonatal lung. In my leisure time, I enjoy playing tennis and cricket as well as travelling. I am also a huge foodie and love watching&nbsp;movies. </p>
-</div>
-
-<div class="lab-member">
 <h2>Carsten&nbsp;Knutsen</h2>
 <p>co-supervised: <a href="https://med.stanford.edu/alviralab/about.html">Cristina Alvira</a> @&nbsp;Stanford</p>
 <p><img alt="Karsten Knutsen" src="../images/people/carsten_knutsen.jpg"></p>
@@ -140,16 +133,10 @@ Beyond work, I love travelling and exploring the outdoors with my husband and da
 I am a PhD student and my background is in pharmacy. My research interests are data analysis and single cell sequencing.
 Outside of work, I like reading and traveling.
 
-## Viraj Kapoor
-![Viraj Kapoor]({static}/images/people/viraj_kapoor.jpg)
-
-[virajkapoor729 AT gmail DOT com](mailto:virajkapoor729@gmail.com)
-
-I am a 4th-year medical student at UNSW, currently researching sex specific responses to hyperoxia in the neonatal lung. In my leisure time, I enjoy playing tennis and cricket as well as travelling. I am also a huge foodie and love watching movies. 
-
 -->
 
 # Alumni
+- [Viraj Kapoor](mailto:viraj.kapoor@student.unsw.edu.au): sex differences in neonatal lung disease, now medical student @[UNSW](https://www.unsw.edu.au/).
 - [Ying (Christine) Xu](mailto:yingxu0928@gmail.com): dengue antibody intern, now student at @[UNSW](https://www.unsw.edu.au/).
 - [Carsten Knutsen](mailto:cknutsen@stanford.edu): neonatal lung research professional, then research associate @[Recombinetics](https://recombinetics.com/) (now back with us!). 
 - [Paula Klavina](mailto:klavinap@tcd.ie): neonatal lung intern, now PhD student @[RCSI (Ireland)](https://www.rcsi.com/)
