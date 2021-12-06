@@ -44,3 +44,8 @@ save_as: index.html
 ![igraph]({static}/images/research/igraph_with_plot.png)
 
 **Graphs or networks are an essential mathematical object in modern systems biology.** Together with some [amazing](https://www.traag.net/) [folks](http://szhorvat.net/pelican/), we develop [igraph](https://igraph.org/), a high-performance network analysis [tool](https://www.researchgate.net/profile/Jesus_Cortes-Rodicio/post/Can_anyone_suggest_any_papers_about_bibliometric_software/attachment/59d61ddb79197b807797b0d5/AS:273730993885186@1442273962343/download/iGraph.pdf) that underpins many software packages in single cell biology and beyond.
+
+## HTSeq 2.0
+![HTSeq]({static}/images/research/htseq2.png)
+
+**HTSeq is a software library to analyse high-throughput sequencing data in Python**. It is particularly popular to quantify gene expression in bulk and single-cell RNA-Seq data via its ``htseq-count`` script. We have been maintaining *HTSeq* for many years and have developed [HTSeq 2.0](https://arxiv.org/abs/2112.00939), adding specific support for single cell experiments, exon-level expression, and a dedicated new API to manage islands of dense genomic data sprinkled in data deserts.
