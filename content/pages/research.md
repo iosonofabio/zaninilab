@@ -9,7 +9,7 @@ save_as: index.html
 
 ### We give a voice to each single cell of the body to show that diversity is an asset, not a liability.
 
-#### OPEN POSITION for a paid intern on network analysis charts in igraph and Python. Nov 2021-Jan 2022 [Project description]({static}/images/intern_fabilab_igraph_2021.pdf)
+#### OPEN POSITION for a master/honours/PhD stuent on single cell omics of neonatal lung disease. Contact Fabio for more info.
 
 #### OPEN POSITION for a master/honours/PhD stuent shared with [Amandine Schaeffer](http://www.oceanography.unsw.edu.au/) on gene stealing in bluebottle jellyfish. [Project description]({static}/images/bluebottle_single_cell_project.pdf)
 
