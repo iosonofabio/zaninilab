@@ -51,6 +51,7 @@ template: people
 to investigate virus-host interplay in severe&nbsp;dengue.</p>
 </div>
 
+<!--
 <div class="lab-member">
 <h2>Toni Rose&nbsp;Jue</h2>
 <p>co-supervised: <a href="https://medicalsciences.med.unsw.edu.au/people/associate-professor-jeff-holst">Jeff Holst</a></p>
@@ -60,6 +61,7 @@ to investigate virus-host interplay in severe&nbsp;dengue.</p>
 to understand the mechanisms of immunotherapeutic strategies for malignant primary brain tumours, specifically glioblastoma.
 Beyond work, I love travelling and exploring the outdoors with my husband and&nbsp;daughter.</p>
 </div>
+-->
 
 <div class="lab-member">
 <h2>Yike&nbsp;Xie</h2>
@@ -78,6 +80,12 @@ Outside of work, I like reading and&nbsp;traveling.</p>
 I am excited about studying and elucidating complex biological systems. I enjoy working with large datasets such as high-throughput screens and single-cell data. Outside of the lab, I like to spend my time mountain biking, rock climbing, and baking.<p>
 </div>
 
+<div class="lab-member">
+<h2>Ying&nbsp;Xu</h2>
+<p><img alt="Ying Xu" src="../images/people/ying_xu.jpg"></p>
+<p><a href="mailto:yingxu0928@gmail.com">yingxu0928<span class="caps">AT</span> gmail<span class="caps">DOT</span> com</a></p>
+I am an honours student in biomedcal engineering working on data compression and APIs for cell atlases. 
+</div>
 
 <div class="lab-member">
 <h2>Kevin&nbsp;Zhu</h2>
@@ -92,6 +100,8 @@ I'm a undergraduate student with an interest in computer science and mathematics
 <p><a href="mailto:c.gatt@student.unsw.edu.au">c DOT gatt<span class="caps">AT</span> student DOT unsw<span class="caps">DOT</span> edu <span class="caps">DOT</span>&nbsp;au</a></p>
 I am an undergraduate student with a keen interest in computational biology, single-cell transcriptomics and evolution.  Beyond studying, I love scuba diving and hiking. 
 </div>
+
+
 
 
 </div>
