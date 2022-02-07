@@ -84,7 +84,7 @@ I am excited about studying and elucidating complex biological systems. I enjoy 
 <h2>Ying&nbsp;Xu</h2>
 <p><img alt="Ying Xu" src="../images/people/ying_xu.jpg"></p>
 <p><a href="mailto:yingxu0928@gmail.com">yingxu0928<span class="caps">AT</span> gmail<span class="caps">DOT</span> com</a></p>
-I am an honours student in biomedcal engineering working on data compression and APIs for cell atlases. 
+I am a Bioinformatics and Biomedical Engineering student at UNSW. I am currently doing my honour thesis project on data compression and APIs for cell atlases. Outside of work, I like photography, swimming, and cats.
 </div>
 
 <div class="lab-member">
