@@ -9,7 +9,7 @@ save_as: index.html
 
 ### We give a voice to each single cell of the body to show that diversity is an asset, not a liability.
 
-#### OPEN POSITION for a master/honours/PhD stuent on single cell omics of neonatal lung disease. Contact Fabio for more info.
+#### OPEN POSITION for a postdoc on single cell omics of neonatal lung disease. [Project description]({static}/images/postdoc_2022_Zanini_ad.pdf)
 
 #### OPEN POSITION for a master/honours/PhD stuent shared with [Amandine Schaeffer](http://www.oceanography.unsw.edu.au/) on gene stealing in bluebottle jellyfish. [Project description]({static}/images/bluebottle_single_cell_project.pdf)
 
