@@ -26,6 +26,17 @@ template: people
 
 </div>
 
+
+<div class="lab-member">
+<h2>Keyi&nbsp;Jiang</h2>
+<p>(from July 2022)</p>
+<p><img alt="Keyi Jiang" src="../images/people/keyi_jiang.jpg"></p>
+<p><a href="mailto:g.putri@unsw.edu.au">g <span class="caps">DOT</span> putri <span class="caps">AT</span> unsw <span class="caps">DOT</span> edu <span class="caps">DOT</span> au</a></p>
+<p>TBA</p>
+</div>
+
+
+<!--
 <div class="lab-member">
 <h2>Givanna&nbsp;Putri</h2>
 <p>co-supervised: <a href="https://medicalsciences.med.unsw.edu.au/people/associate-professor-john-pimanda">John Pimanda</a></p>
@@ -33,6 +44,7 @@ template: people
 <p><a href="mailto:g.putri@unsw.edu.au">g <span class="caps">DOT</span> putri <span class="caps">AT</span> unsw <span class="caps">DOT</span> edu <span class="caps">DOT</span> au</a></p>
 <p>I am a postdoctoral research fellow with passion for single cell omics and computational biology, specifically using data science techniques to analyse multi-omics data and investigate biological system. When not working, I enjoy mountain biking, painting, travelling, and listening to blues and jazz music.</p>
 </div>
+-->
 
 <div class="lab-member">
 <h2>Kanu&nbsp;Wahi</h2>
@@ -42,6 +54,7 @@ template: people
 <p>I am a postdoctoral research fellow with a keen interest in identifying resistance mechanisms in aggressive subtypes of breast cancer caused by dysregulation at the transcript level through to the metabolic level. Apart from work, I enjoy going for bike rides and bush walks.</p>
 </div>
 
+<!--
 <div class="lab-member">
 <h2>Zhiyuan&nbsp;Yao</h2>
 <p>co-supervised: <a href="https://med.stanford.edu/einavlab/people.html">Shirit Einav</a> @&nbsp;Stanford</p>
@@ -50,6 +63,7 @@ template: people
 <p>I am a postdoctoral scholar with an interest in single cell biology and virology, especially using single cell transcriptomic tools
 to investigate virus-host interplay in severe&nbsp;dengue.</p>
 </div>
+-->
 
 <!--
 <div class="lab-member">
@@ -87,12 +101,14 @@ I am excited about studying and elucidating complex biological systems. I enjoy 
 I am a Bioinformatics and Biomedical Engineering student at UNSW. I am currently doing my honour thesis project on data compression and APIs for cell atlases. Outside of work, I like photography, swimming, and cats.
 </div>
 
+<!--
 <div class="lab-member">
 <h2>Kevin&nbsp;Zhu</h2>
 <p><img alt="Kevin Zhu" src="../images/people/kevin_zhu.jpg"></p>
 <p><a href="mailto:kv.zhu999@gmail.com">kv DOT zhu999<span class="caps">AT</span> gmail <span class="caps">DOT</span>&nbsp;com</a></p>
 I'm a undergraduate student with an interest in computer science and mathematics, particularly when I'm able to visualise the data that I'm working with! Outside of work, I love to draw and play Overwatch with my friends.
 </div>
+-->
 
 <div class="lab-member">
 <h2>Catherine&nbsp;Gatt</h2>
@@ -100,9 +116,6 @@ I'm a undergraduate student with an interest in computer science and mathematics
 <p><a href="mailto:c.gatt@student.unsw.edu.au">c DOT gatt<span class="caps">AT</span> student DOT unsw<span class="caps">DOT</span> edu <span class="caps">DOT</span>&nbsp;au</a></p>
 I am an undergraduate student with a keen interest in computational biology, single-cell transcriptomics and evolution.  Beyond studying, I love scuba diving and hiking. 
 </div>
-
-
-
 
 </div>
 
@@ -162,6 +175,9 @@ Outside of work, I like reading and traveling.
 -->
 
 # Alumni
+- [Givanna Putri](g.putri@unsw.edu.au): single-cell multi-omics of stem cells, [HTSeq 2.0](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btac166/6551247).
+- [Zhiyuan Yao](mailto:yzhiyuan@stanford.edu): single cell omics of severe dengue and alphaviruses, now Computational Scientist @[Janssen](https://www.linkedin.com/in/zhi-yuan-yao-62142572/).
+- [Kevin Zhu](mailto:kevin.zhu3@student.unsw.edu.au>): tutorials and algorithm for [igraph](https://igraph.org/), now student @[UNSW](https://www.unsw.edu.au/).
 - [Viraj Kapoor](mailto:viraj.kapoor@student.unsw.edu.au): sex differences in neonatal lung disease, now medical student @[UNSW](https://www.unsw.edu.au/).
 - [Ying (Christine) Xu](mailto:yingxu0928@gmail.com): dengue antibody intern, now student at @[UNSW](https://www.unsw.edu.au/).
 - [Carsten Knutsen](mailto:cknutsen@stanford.edu): neonatal lung research professional, then research associate @[Recombinetics](https://recombinetics.com/) (now back with us!). 
