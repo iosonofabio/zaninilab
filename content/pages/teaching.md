@@ -23,6 +23,7 @@ javascripts: d3.min.js
 - [Single cell virology of flavi- and alphaviruses](https://docs.google.com/presentation/d/1M5b9hJTUXkgfs6CKbwNiePi0goQ8T7PZYQGy0UcyldM/edit?usp=sharing) May 2020, Virology Research Seminar series, UNSW
 - [Venezuelan equine encephalitis virus](https://docs.google.com/presentation/d/1pLEzF1f8SAEG0U6yoc9_ACoik6iLXOfnmkzcQwWmWOY/edit?usp=sharing): March 2020, Pimanda lab meeting guest talk
 - [Rich single cell sequencing](https://docs.google.com/presentation/d/1lA3IU7FXRaG6VGdL63ANPtQedE_ioSjCFJBaSEVnLVI): March 2020, UNSW Lowy Cancer Research Centre
+- [Heterogeneity of viral disease across strains and host cell types](https://cloudstor.aarnet.edu.au/plus/s/a6rmE7kpkdixXgu): Jan 2019, UNSW Job interview
 
 # Posters
 - [Northstar](https://drive.google.com/file/d/1YH1hFtFajIdiJdnDJ577auEvCgNzFBRr): November 2019, Human Cell Atlas Asia Meeting, Singapore
