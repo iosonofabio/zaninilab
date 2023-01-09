@@ -5,11 +5,11 @@ order: 5.1
 date: 2020-03-29
 
 ## OPEN POSITIONS
+**PhD student position (Sydney, Australia)**: "_Linking viral infection of pancreatic cells with type-1 diabetes by single-cell virology_". This project, with co-supervision by [Ki-Wook Kim](https://www.unsw.edu.au/staff/ki-wook-kim), aims to use single-cell omics to characterise the molecular link connecting pancreas infection by enteroviruses and Type-1 diabetes pathogenesis in children. [Project description]({static}/images/type1_diabetes_project.pdf)
+
 **PhD student position (Sydney, Australia)**: "_Evolutionary machine learning with compressed cell atlases_". This project aims to fulfill the potential of cell atlases by using lossy compression algorithms, machine learning, and evolutionary biology. [Project description]({static}/images/compressed_cell_atlas_project.pdf).
 
  **Master/honours/PhD student position (Sydney, Australia)**: "_Gene thieves: how a nudibranch incorporates the stinging cells of the Bluebottle jellyfish_". This project, with co-supervision by [Amandine Schaeffer](http://www.oceanography.unsw.edu.au/), aims to understand the evolutionary adaptation of gene stealing in bluebottle jellyfish and blue sea dragons. [Project description]({static}/images/bluebottle_single_cell_project.pdf)
-
- **Paid intern position (Sydney, Australia or remote)**: "Expanding igraph documentation". Nov 2022 (until filled)
 
 
 ## How to apply

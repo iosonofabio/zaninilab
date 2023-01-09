@@ -9,6 +9,8 @@ save_as: index.html
 
 ### We give a voice to each single cell of the body to show that diversity is an asset, not a liability.
 
+#### OPEN POSITION for a PhD student with [Ki-Wook Kim](https://www.unsw.edu.au/staff/ki-wook-kim) on [linking viral infection and type-1 diabetes in children]({static}/images/type1_diabetes_project.pdf).
+
 #### OPEN POSITION for a PhD student on [evolutionary machine learning with compressed cell atlases]({static}/images/compressed_cell_atlas_project.pdf).
 
 #### OPEN POSITION for a honours/PhD student with [Amandine Schaeffer](http://www.oceanography.unsw.edu.au/) on [bluebottle jellyfish]({static}/images/bluebottle_single_cell_project.pdf).
