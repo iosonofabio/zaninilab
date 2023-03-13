@@ -9,14 +9,16 @@ save_as: index.html
 
 ### We give a voice to each single cell of the body to show that diversity is an asset, not a liability.
 
-#### OPEN POSITION for a PhD student with [Ki-Wook Kim](https://www.unsw.edu.au/staff/ki-wook-kim) on [linking viral infection and type-1 diabetes in children]({static}/images/type1_diabetes_project.pdf).
+#### OPEN POSITION for a Postdoc/Data Engineer on [light and scalable cell atlas approximations]({static}/images/cell_atlas_approximations_project.pdf).
 
-#### OPEN POSITION for a PhD student on [evolutionary machine learning with compressed cell atlases]({static}/images/compressed_cell_atlas_project.pdf).
+#### OPEN POSITION for a PhD student on [single cell and spatial omics in human disease]({static}/images/Fabilab_singlecell_PhD_project.pdf).
 
-#### OPEN POSITION for a honours/PhD student with [Amandine Schaeffer](http://www.oceanography.unsw.edu.au/) on [bluebottle jellyfish]({static}/images/bluebottle_single_cell_project.pdf).
+<!-- #### OPEN POSITION for a PhD student with [Ki-Wook Kim](https://www.unsw.edu.au/staff/ki-wook-kim) on [linking viral infection and type-1 diabetes]({static}/images/type1_diabetes_project.pdf). -->
+
+#### OPEN POSITION for an honours student with [Amandine Schaeffer](http://www.oceanography.unsw.edu.au/) on [bluebottle jellyfish]({static}/images/bluebottle_single_cell_project.pdf).
 
 # Research
-[Fabilab](pages/contact.html) is driven by [people](pages/people.html), not [academic boundaries](https://en.wikipedia.org/wiki/Interdisciplinarity). We proudly work on biology, medicine, data science, computer science, network science and, sometimes, math. We are enthusiastic leaders in [night science](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1800-6) and love to generate new ideas and - why not - mix things up. If you like our work, shoot us an [email](mailto:fabio.zanini@unsw.edu.au): we reply to every single one.
+[Fabilab](pages/contact.html) is driven by [people](pages/people.html), not [academic boundaries](https://en.wikipedia.org/wiki/Interdisciplinarity). We proudly work on biology, medicine, data science, computer science, network science and, sometimes, math. We are enthusiastic leaders in [night science](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1800-6) and love to generate new ideas and - why not - mix things up. If you like our work, shoot Fabio an [email](mailto:fabio.zanini@unsw.edu.au).
 
 Below is an (incomplete) list of our current projects.
 

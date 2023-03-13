@@ -7,16 +7,30 @@ date: 2019-12-02
 # Papers
 \* = equal contribution
 
+Updated list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=XMDw5-4AAAAJ).
+
+## 2023
+- L Ghita, Z Yao, Y Xie, V Duran et al. F Zanini\*, S Einav\* [Global and cell type-specific immunological hallmarks of severe dengue progression](https://www.biorxiv.org/content/10.1101/2022.12.11.519930.abstract) (bioRxiv)
+- F Zanini et al. [Developmental diversity and unique sensitivity to injury of lung endothelial subtypes during postnatal growth](https://www.cell.com/iscience/pdf/S2589-0042\(23\)00174-8.pdf) (iScience)
+
+## 2022
+- GH Putri, S Anders, PT Pyl, JE Pimanda, F Zanini [Analysing high-throughput sequencing data in Python with HTSeq 2.0](https://academic.oup.com/bioinformatics/article-abstract/38/10/2943/6585435) (Bioinformatics)
+- AS Schnegg-Kaufmann, JAI Thoms et al., F Zanini\*, JE Pimanda\* [Contribution of mutant HSC clones to immature and mature cells in MDS and CMML, and variations with AZA therapy](https://ashpublications.org/blood/article-abstract/doi/10.1182/blood.2022018602/493610) (Blood)
+- SM Zandavi, FC Koch, A Vijayan, F Zanini, FV Mora, DG Ortega, F Vafaee [Disentangling single-cell omics representation with a power spectral density-based feature extraction](https://academic.oup.com/nar/article-abstract/50/10/5482/6593107) (NAR)
+- Vashe Chandrakanthan et al. (including F Zanini) [Mesoderm-derived PDGFRA+ cells regulate the emergence of hematopoietic stem cells in the dorsal aorta](https://www.nature.com/articles/s41556-022-00955-3) (NCB)
+
 ## 2021
 - F Zanini et al. [Progressive Increases in Mesenchymal Cell Diversity Modulate Lung Development and are Attenuated by Hyperoxia](https://www.biorxiv.org/content/10.1101/2021.05.19.444776v1.full) (bioRxiv)
-- F Zanini et al. [Phenotypic diversity and sensitivity to injury of the pulmonary endothelium during a period of rapid postnatal growth](https://www.biorxiv.org/content/10.1101/2021.04.27.441649v1) (bioRxiv)
 - J Thoms et al. F Zanini\*, JE Pimanda\* [Disruption of a GATA2, TAL1, ERG regulatory circuit promotes erythroid transition in healthy and leukemic stem cells](https://ashpublications.org/blood/article-abstract/doi/10.1182/blood.2020009707/476046/Disruption-of-a-GATA2-TAL1-ERG-regulatory-circuit?redirectedFrom=fulltext) (Blood)
 - Z Yao\*, F Zanini\*, et al. [The transcriptional landscale of Venezuelan equine encephalitis virus infection](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0009306) (PLOS Neglected Tropical Diseases)
+<!-- - F Zanini et al. [Phenotypic diversity and sensitivity to injury of the pulmonary endothelium during a period of rapid postnatal growth](https://www.biorxiv.org/content/10.1101/2021.04.27.441649v1) (bioRxiv) -->
 
 ## 2020
 - F Zanini\*, BA Berghuis\* et al. [northstar: leveraging cell atlases to identify healthy and neoplastic cells in transcriptomes from human tumors](https://www.nature.com/articles/s41598-020-71805-1) (Scientific Reports)
 - R Domingo-Gonzales\*, F Zanini\*, et al. [Diverse homeostatic and immunomodulatory roles of immune cells in the developing mouse lung revealed at single cell resolution](https://elifesciences.org/articles/56890) (eLife)
 - Tabula Muris Consortium (including F Zanini). [A single-cell transcriptomic atlas characterizes ageing tissues in the mouse](https://www.nature.com/articles/s41586-020-2496-1) (Nature)
+
+**Older papers** (before Fabilab):
 
 ## 2019
 - ND Durham, A Agrawal, E Waltari, D Croote, F Zanini et al. [Broadly neutralizing human antibodies against dengue virus identified by single B cell transcriptomics](https://elifesciences.org/articles/52384) (eLife)
@@ -38,4 +52,3 @@ date: 2019-12-02
 ## 2015
 - F Zanini, J Brodin, L Thebo, C Lanz, G Bratt, J Albert, RA Neher. [Population genomics of intrapatient HIV-1 evolution](https://cdn.elifesciences.org/articles/11282/elife-11282-v2.pdf) (eLife)
 
-(older papers exist, all of Fabio's paper on [Google Scholar](https://scholar.google.com/citations?hl=en&user=XMDw5-4AAAAJ))

@@ -46,6 +46,7 @@ template: people
 </div>
 -->
 
+<!--
 <div class="lab-member">
 <h2>Kanu&nbsp;Wahi</h2>
 <p>co-supervised: <a href="https://medicalsciences.med.unsw.edu.au/people/associate-professor-jeff-holst">Jeff Holst</a> and <a href="https://www.ccia.org.au/molecular-targets-and-cancer-therapeutics/metal-targeted-therapy-and-immunology">Orazio Vittorio</a></p>
@@ -53,6 +54,7 @@ template: people
 <p><a href="mailto:k.wahi@unsw.edu.au">k <span class="caps">DOT</span> wahi <span class="caps">AT</span> unsw <span class="caps">DOT</span> edu <span class="caps">DOT</span> au</a></p>
 <p>I am a postdoctoral research fellow with a keen interest in identifying resistance mechanisms in aggressive subtypes of breast cancer caused by dysregulation at the transcript level through to the metabolic level. Apart from work, I enjoy going for bike rides and bush walks.</p>
 </div>
+-->
 
 <!--
 <div class="lab-member">
@@ -94,12 +96,14 @@ Outside of work, I like reading and&nbsp;traveling.</p>
 I am excited about studying and elucidating complex biological systems. I enjoy working with large datasets such as high-throughput screens and single-cell data. Outside of the lab, I like to spend my time mountain biking, rock climbing, and baking.<p>
 </div>
 
+<!--
 <div class="lab-member">
 <h2>Ying&nbsp;Xu</h2>
 <p><img alt="Ying Xu" src="../images/people/ying_xu.jpg"></p>
 <p><a href="mailto:yingxu0928@gmail.com">yingxu0928<span class="caps">AT</span> gmail<span class="caps">DOT</span> com</a></p>
 I am a Bioinformatics and Biomedical Engineering student at UNSW. I am currently doing my honour thesis project on data compression and APIs for cell atlases. Outside of work, I like photography, swimming, and cats.
 </div>
+-->
 
 <!--
 <div class="lab-member">
