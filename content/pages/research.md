@@ -18,9 +18,13 @@ save_as: index.html
 #### OPEN POSITION for an honours student with [Amandine Schaeffer](http://www.oceanography.unsw.edu.au/) on [bluebottle jellyfish]({static}/images/bluebottle_single_cell_project.pdf).
 
 # Research
-[Fabilab](pages/contact.html) is driven by [people](pages/people.html), not [academic boundaries](https://en.wikipedia.org/wiki/Interdisciplinarity). We proudly work on biology, medicine, data science, computer science, network science and, sometimes, math. We are enthusiastic leaders in [night science](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1800-6) and love to generate new ideas and - why not - mix things up. If you like our work, shoot Fabio an [email](mailto:fabio.zanini@unsw.edu.au).
+[Fabilab](pages/contact.html) is driven by [people](pages/people.html), not [academic boundaries](https://en.wikipedia.org/wiki/Interdisciplinarity). We proudly work on biology, medicine, data science, computer science, network science and, sometimes, math. We are enthusiastic leaders in [night science](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1800-6) and love to generate new ideas and - why not - mix things up. If you like our work, shoot Fabio an [email](mailto:fabio.zanini@unsw.edu.au). Some of our current projects are listed below.
 
-Below is an (incomplete) list of our current projects.
+## Virus-inclusive single cell RNA-Seq 2: predictive omics of infection
+![Severe dengue]({static}/images/research/severe_dengue2.png)
+
+
+**Dengue** is the most widespread mosquito-transmitted viral disease with 400 million infections every year. We are [developing new approaches](https://www.biorxiv.org/content/10.1101/2022.12.11.519930v2.full) to understand what different parts of the immune system are doing during severe dengue. We identified CD163 as a biomarker for severity in monocytes and patented [new antibodies](https://elifesciences.org/articles/52384) against dengue virus.
 
 ## Single-cell gene expression with HTSeq 2.0
 ![HTSeq]({static}/images/research/htseq2.png)
@@ -43,13 +47,6 @@ Below is an (incomplete) list of our current projects.
 ![Embedding AML cells]({static}/images/research/umap_aml.png)
 
 **Cancer cells are not equal in the face of therapeutics.** Within a single patient, even within a single Petri dish, heterogeneity in gene expression and function distinguishes more stem-like cells, which are more likely to cause relapse, from more differentiated cells. Using our [northstar](https://www.nature.com/articles/s41598-020-71805-1) algoritm, we developed [data exploration techniques](https://ashpublications.org/blood/article-abstract/doi/10.1182/blood.2020009707/476046/Disruption-of-a-GATA2-TAL1-ERG-regulatory-circuit?redirectedFrom=fulltext) to reveal how the transition between these cancer cell states is regulated and how it can be perturbed chemically, with the vision to reduce relapse in acute myeloid leukemia (AML).
-
-## Virus-inclusive single cell omics of dengue infection
-![Severe dengue]({static}/images/research/severe_dengue.png)
-
-
-**Dengue** is the most widespread mosquito-transmitted viral disease with 400 million infections every year. We are developing [new](https://elifesciences.org/articles/32942) [approaches](https://www.pnas.org/content/115/52/E12363) to understand what different parts of the immune system are doing during severe dengue. We identified CD163 as a biomarker for severity in monocytes and patented [new antibodies](https://elifesciences.org/articles/52384) against dengue virus.
-
 
 ## Single-cell biomedicine of the neonatal lung
 ![Neonatal lung immunity]({static}/images/research/lung_immune.png)
