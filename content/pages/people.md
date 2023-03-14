@@ -29,10 +29,9 @@ template: people
 
 <div class="lab-member">
 <h2>Keyi&nbsp;Jiang</h2>
-<p>(from July 2022)</p>
 <p><img alt="Keyi Jiang" src="../images/people/keyi_jiang.jpg"></p>
 <p><a href="mailto:g.putri@unsw.edu.au">g <span class="caps">DOT</span> putri <span class="caps">AT</span> unsw <span class="caps">DOT</span> edu <span class="caps">DOT</span> au</a></p>
-<p>TBA</p>
+<p>TBD</p>
 </div>
 
 
@@ -115,9 +114,16 @@ I'm a undergraduate student with an interest in computer science and mathematics
 -->
 
 <div class="lab-member">
+<h2>Anneliese&nbsp;Mak</h2>
+<p><img alt="Anneliese Mak" src="../images/people/anneliese_mak.jpg"></p>
+<p><a href="mailto:anneliese.mak@student.unsw.edu.au">anneliese DOT mak <span class="caps">AT</span> student <span class="caps">DOT</span>&nbsp;unsw <span class="caps">DOT</span>&nbsp;edu  <span class="caps">DOT</span>&nbsp;au</a></p>
+I am an honours student in bioinformatics/biomedical engineering. I enjoy coding, playing table tennis and video games.
+</div>
+
+<div class="lab-member">
 <h2>Catherine&nbsp;Gatt</h2>
 <p><img alt="Catherine Gatt" src="../images/people/catherine_gatt.jpg"></p>
-<p><a href="mailto:c.gatt@student.unsw.edu.au">c DOT gatt<span class="caps">AT</span> student DOT unsw<span class="caps">DOT</span> edu <span class="caps">DOT</span>&nbsp;au</a></p>
+<p><a href="mailto:c.gatt@student.unsw.edu.au">c DOT gatt <span class="caps">AT</span> student DOT &nbsp;unsw<span class="caps">&nbsp;DOT</span>&nbsp;edu <span class="caps">DOT</span>&nbsp;au</a></p>
 I am an undergraduate student with a keen interest in computational biology, single-cell transcriptomics and evolution.  Beyond studying, I love scuba diving and hiking. 
 </div>
 
