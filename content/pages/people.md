@@ -26,13 +26,14 @@ template: people
 
 </div>
 
-
+<!--
 <div class="lab-member">
 <h2>Keyi&nbsp;Jiang</h2>
 <p><img alt="Keyi Jiang" src="../images/people/keyi_jiang.jpg"></p>
 <p><a href="mailto:g.putri@unsw.edu.au">g <span class="caps">DOT</span> putri <span class="caps">AT</span> unsw <span class="caps">DOT</span> edu <span class="caps">DOT</span> au</a></p>
 <p>TBD</p>
 </div>
+-->
 
 
 <!--
@@ -120,6 +121,15 @@ I'm a undergraduate student with an interest in computer science and mathematics
 I am an honours student in bioinformatics/biomedical engineering. I enjoy coding, playing table tennis and video games.
 </div>
 
+
+<div class="lab-member">
+<h2>Yuancong&nbsp;Cheng</h2>
+<p><img alt="Yuancong Cheng" src="../images/people/yuancong_cheng.jpg"></p>
+<p><a href="mailto:yuancong.cheng@student.unsw.edu.au">yuancong DOT cheng <span class="caps">AT</span> student <span class="caps">DOT</span>&nbsp;unsw <span class="caps">DOT</span>&nbsp;edu  <span class="caps">DOT</span>&nbsp;au</a></p>
+I am a computer science honour student with interest in bioinformatics. I love coding, debuggingg and data analysis. Outside of my studies, I enjoy traveling, photography and cooking.
+</div>
+
+
 <div class="lab-member">
 <h2>Catherine&nbsp;Gatt</h2>
 <p><img alt="Catherine Gatt" src="../images/people/catherine_gatt.jpg"></p>
@@ -185,6 +195,7 @@ Outside of work, I like reading and traveling.
 -->
 
 # Alumni
+- Keyi Jiang: single cell omics of neonatal immunity.
 - [Givanna Putri](g.putri@unsw.edu.au): single-cell multi-omics of stem cells, [HTSeq 2.0](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btac166/6551247).
 - [Zhiyuan Yao](mailto:yzhiyuan@stanford.edu): single cell omics of severe dengue and alphaviruses, now Computational Scientist @[Janssen](https://www.linkedin.com/in/zhi-yuan-yao-62142572/).
 - [Kevin Zhu](mailto:kevin.zhu3@student.unsw.edu.au>): tutorials and algorithm for [igraph](https://igraph.org/), now student @[UNSW](https://www.unsw.edu.au/).
