@@ -199,8 +199,9 @@ Outside of work, I like reading and traveling.
 -->
 
 # Alumni
+- Danny Dien: Natural Language Processing for atlas approximations.
 - Keyi Jiang: single cell omics of neonatal immunity.
-- [Givanna Putri](g.putri@unsw.edu.au): single-cell multi-omics of stem cells, [HTSeq 2.0](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btac166/6551247).
+- Givanna Putri: single-cell multi-omics of stem cells, [HTSeq 2.0](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btac166/6551247).
 - [Zhiyuan Yao](mailto:yzhiyuan@stanford.edu): single cell omics of severe dengue and alphaviruses, now Computational Scientist @[Janssen](https://www.linkedin.com/in/zhi-yuan-yao-62142572/).
 - [Kevin Zhu](mailto:kevin.zhu3@student.unsw.edu.au>): tutorials and algorithm for [igraph](https://igraph.org/), now student @[UNSW](https://www.unsw.edu.au/).
 - [Viraj Kapoor](mailto:viraj.kapoor@student.unsw.edu.au): sex differences in neonatal lung disease, now medical student @[UNSW](https://www.unsw.edu.au/).
