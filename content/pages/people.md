@@ -139,7 +139,7 @@ I am an honours student in bioinformatics/biomedical engineering. I enjoy coding
 <h2>Joanna&nbsp;Ahn</h2>
 <p><img alt="Joanna Ahn" src="../images/people/joanna_ahn.jpg" width="232px"></p>
 <p><a href="mailto:joannasy.ahn@gmail.com">joannasy <span class="caps">DOT</span> ahn <span class="caps">AT</span> gmail <span class="caps">DOT</span> com</a></p>
-<p>I am a research intern working on cell atlas approximations and my background is in biology. My research focus is computational data analysis.</p>
+<p>I graduated from UOA with a Bachelor's in Biological Science. Currently working on Cell Atlas Approximations. I like staying at home and watching movies!</p>
 </div>
 
 </div>
