@@ -21,9 +21,9 @@ date: 2020-03-29
 Contact Fabio at [fabio.zanini@unsw.edu.au](mailto:fabio.zanini@unsw.edu.au):
 <!-- - **Postdocs**: we have one position available (see [announcement](/postdocopening012020.html)) for cell atlas construction. -->
 
-- **Postdocs**: Send a CV, a description of research interests, and the names and contact information for at least two references. There are many fellowships [out there](https://asntech.github.io/postdoc-funding-schemes/).
+- **Postdocs**: Send a CV, a description of research interests, and the names and contact information for at least two references. There are many fellowships [out there](https://asntech.github.io/postdoc-funding-schemes/). Include a description of your programming skills including, if available, a link to your GitHub/GitLab/Bitbucket profile.
 
-- **PhD students**: We accept students from UNSW through the [Scientia](https://www.scientia.unsw.edu.au/scientia-phd-scholarships) and the [Graduate Research](https://research.unsw.edu.au/graduate-research-scholarships) programs. Write Fabio with a CV and a page of research interests.
+- **PhD students**: We accept students from UNSW through the [Graduate Research](https://research.unsw.edu.au/graduate-research-scholarships) program. Email Fabio a CV, a one-page PDF with research interests ("why do you want to join this lab?"), and a description of your programming skills including, if available, a link to your GitHub/GitLab/Bitbucket profile.
 
 - **Honours students**: We generally welcome candidates motivated to mix computational and molecular biology projects. Send one paragraph of research interest and one about your favourite lecture.
 
