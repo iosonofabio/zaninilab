@@ -5,7 +5,7 @@ order: 5.1
 date: 2020-03-29
 
 ## OPEN POSITIONS
-**Computer science honours/PhD student position (Sydney, Australia)**: "_Zero-backend single cell analysis_". This project aims to enable fundamental single cell omic data analysis directly from a web browser, without any computational literacy and with zero server-side computations. [Project description]({static}/images/zero_backend_sc_analysis.pdf)
+**Computer science honours/PhD student position (Sydney, Australia)**: "_AI-driven single cell analysis_". This project aims to enable fundamental single cell omic data analysis directly from a web browser, without any computational literacy and using a chatbot and a natural language processing (NLP) neural network. [Project description]({static}/images/AI_sc_analysis.pdf)
 
 <!-- **PhD student position (Sydney, Australia)**: "_Linking viral infection of pancreatic cells with type-1 diabetes by single-cell virology_". This project, with co-supervision by [Ki-Wook Kim](https://www.unsw.edu.au/staff/ki-wook-kim), aims to use single-cell omics to characterise the molecular link connecting pancreas infection by enteroviruses and Type-1 diabetes pathogenesis in children. [Project description]({static}/images/type1_diabetes_project.pdf) -->
 

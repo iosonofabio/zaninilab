@@ -9,7 +9,7 @@ save_as: index.html
 
 ### We give a voice to each single cell of the body to show that diversity is an asset, not a liability.
 
-#### OPEN POSITION for a computer science honours/PhD student on [Zero-backend single cell analysis]({static}/images/zero_backend_sc_analysis.pdf).
+#### OPEN POSITION for a computer science honours/PhD student on [AI-driven single cell analysis]({static}/images/AI_sc_analysis.pdf).
 
 <!--
 #### OPEN POSITION for a Postdoc/Data Engineer on [light and scalable cell atlas approximations]({static}/images/cell_atlas_approximations_project.pdf).
