@@ -1,0 +1,915 @@
+{
+  "name": "Corpus for Cell Atlas Approximations",
+  "locale": "en-US",
+  "contextData": "src/contextData.json",
+  "data": [
+    {
+      "intent": "greetings.hello",
+      "utterances": [
+        "hello",
+        "hello there!",
+        "good morning",
+        "good day",
+        "g'day",
+        "hi",
+        "hey"
+      ],
+      "answers": [
+        "Hello! Type \"help\" to get started.",
+        "Hi there! Type \"clear\" to reset the chat bot."
+      ]
+    },
+    {
+      "intent": "greetings.hate",
+      "utterances": [
+        "I hate this website",
+        "I don't like you",
+        "I hate this bot"
+      ],
+      "answers": [
+        "Sorry to hear, perhaps open a GitHub issue with your concern?",
+        "Oh sorry about that, I wish I was smarter.",
+        "Sorry to hear that. Perhaps type \"help\" to see some examples?"
+      ]
+    },
+    {
+      "intent": "greetings.love",
+      "utterances": [
+        "I like this website",
+        "I really like this bot",
+        "This is useful",
+        "I love you"
+      ],
+      "answers": [
+        "Thank you. We try our best :-)",
+        "Great! Check out https://fabilab.org to see what else we do."
+      ]
+    },
+    {
+      "intent": "explore.organism",
+      "utterances": [
+        "explore @organism",
+        "let me explore @organism",
+        "what is known about @organism?",
+        "delve into @organism",
+        "what can you tell me about @organism?",
+        "what data is available on @organism?",
+        "what is there on @organism?"
+      ],
+      "slotFilling": {
+        "organism": {
+          "mandatory": true,
+          "question": "Explore what organism?"
+        }
+      }
+    },
+    {
+      "intent": "measurement_types",
+      "utterances": [
+         "show list of measurement types",
+         "list measurement types",
+         "list assay types",
+         "show list of assays",
+         "what assays are available?",
+         "what measurement kinds are there?",
+         "what data kinds are there?",
+         "what data are available?",
+         "what data are available in AtlasApprox?",
+         "what kind of data is available?",
+         "what kind of data is available in AtlasApprox?",
+         "what kinds of measurement types are available?",
+         "what kinds of measurement types are available in AtlasApprox?"
+      ]
+    },
+    {
+      "intent": "organs.geneExpression",
+      "utterances": [
+        "list tissues",
+        "list organs",
+        "list organs in @organism",
+        "list tissues in @organism",
+        "list organs for @organism",
+        "list tissues for @organism",
+        "show organs",
+        "show tissues",
+        "show tissues for @organism",
+        "show organs for @organism",
+        "show organs for human",
+        "show organs for mouse",
+        "what organs are available?",
+        "what organs are available for @organism?",
+        "what organs are there for @organism?",
+        "what organs are available in @organism?",
+        "what organs are there in @organism?",
+        "what organs do you have?",
+        "what organs do you have for @organism?"
+      ],
+      "slotFilling": {
+        "organism": {
+          "mandatory": true,
+          "question": "In what organism?"
+        }
+      }
+    },
+    {
+      "intent": "organs.chromatinAccessibility",
+      "utterances": [
+        "list tissues in chromatin accessibility",
+        "list organs in chromatin accessibility",
+        "list organs in @organism in chromatin accessibility",
+        "list tissues in @organism in chromatin accessibility",
+        "list organs for @organism in chromatin accessibility",
+        "list tissues for @organism in chromatin accessibility",
+        "show organs in chromatin accessibility",
+        "show tissues in chromatin accessibility",
+        "show tissues for @organism in chromatin accessibility",
+        "show organs for @organism in chromatin accessibility",
+        "what organs are available by chromatin accessibility?",
+        "what organs are available for @organism by chromatin accessibility? ",
+        "what organs are there for @organism by chromatin accessibility?",
+        "what organs do you have by chromatin accessibility?",
+        "what organs do you have for @organism by chromatin accessibility?"
+      ],
+      "slotFilling": {
+        "organism": {
+          "mandatory": true,
+          "question": "In what organism?"
+        }
+      }
+    },
+ 
+    {
+      "intent": "organisms.geneExpression",
+      "utterances": [
+        "show species",
+        "list species",
+        "show organisms",
+        "list organisms",
+        "which species are present?",
+        "which species are available?",
+        "what species are present?",
+        "what species are there?",
+        "what organisms are there?",
+        "what species are available?",
+        "show available organisms",
+        "list available organisms",
+        "which organisms do you have?",
+        "which organisms are present?",
+        "which organisms are available?",
+        "what organisms do you have?",
+        "what organisms are present?",
+        "what organisms are available?",
+        "What organisms are available in AtlasApprox?"
+      ]
+    },
+    {
+      "intent": "organisms.chromatinAccessibility",
+      "utterances": [
+        "show species for chromatin accessibility",
+        "list species for chromatin accessibility",
+        "show organisms for chromatin accessibility",
+        "list organisms for chromatin accessibility",
+        "which species are present in chromatin accessibility data?",
+        "which species are available in chromatin accessibility?",
+        "what species are present in chromatin accessibility?",
+        "what species are there in the chromatin accessibility data?",
+        "what organisms are there in the chromatin accessibility data?",
+        "what species are available in the chromatin accessibility data?",
+        "show available organisms in chromatin accessibility",
+        "list available organisms in chromatin accessibility",
+        "which organisms do you have in the chromatin accessibility data?",
+        "which organisms are present in the chromatin accessibility data?",
+        "which organisms are available in the chromatin accessibility data?",
+        "what organisms do you have in the chromatin accessibility data?",
+        "what organisms are present in the chromatin accessibility data?",
+        "what organisms are available via chromatin accessibility?"
+      ]
+    },
+    {
+      "intent": "celltypes.geneExpression",
+      "utterances": [
+        "list cell types",
+        "list cell types in @organism @organ",
+        "what are the cell types in @organism",
+        "what are the cell types in @organism @organ",
+        "what cell types are there?",
+        "what cell types are there in @organism @organ?",
+        "what cell types are available?",
+        "what cell types are available in @organism @organ?"
+      ],
+      "slotFilling": {
+        "organism": {
+          "mandatory": true,
+          "question": "You requested cell types: in what organism?"
+        },
+        "organ": {
+          "mandatory": true,
+          "question": "You requested cell types: in what organ?"
+        }
+      }
+    },
+    {
+      "intent": "celltypes.chromatinAccessibility",
+      "utterances": [
+        "list cell types in chromatin accessibility",
+        "list chromatin accessibility cell types in @organism @organ",
+        "list ATAC cell types in @organism @organ",
+        "list ATAC-Seq cell types in @organism @organ",
+        "what are the ATAC cell types in @organism",
+        "what are the ATAC-Seq cell types in @organism",
+        "what are the chromatin accessibility cell types in @organism",
+        "what are the cell types in @organism @organ chromatin accessibility",
+        "what cell types are there by chromatin accessibility?",
+        "what cell types are there in @organism @organ by chromatin accessibility?",
+        "what cell types are available by chromatin accessibility?",
+        "what cell types are available in @organism @organ by chromatin accessibility?"
+      ],
+      "slotFilling": {
+        "organism": {
+          "mandatory": true,
+          "question": "You requested cell types: in what organism?"
+        },
+        "organ": {
+          "mandatory": true,
+          "question": "You requested cell types: in what organ?"
+        }
+      }
+    },
+    {
+      "intent": "celltype_location.geneExpression",
+      "utterances": [
+        "where are @celltype in @organism?",
+        "where are @celltype detected in @organism?",
+        "where were @celltype found in @organism?",
+        "what organs contain @celltype in @organism?",
+        "show locations of @celltype in @organism",
+        "list organs containing @celltype in @organism",
+        "where are @celltype@organ detected in @organism?"
+      ],
+      "slotFilling": {
+        "organism": {
+          "mandatory": true,
+          "question": "You requested cell type location: in what organism?"
+        },
+        "celltype": {
+          "mandatory": true,
+          "question": "You requested cell type location: of what cell type?"
+        }
+      }
+    },
+    {
+      "intent": "celltypexorgan.geneExpression",
+      "utterances": [
+        "show the table of cell types in all @organism organs",
+        "what cell types are present in each organ of @organism",
+        "show the presence matrix for cell types in @organism",
+        "where are cell types found in @organism",
+        "show cell type presence across organs",
+        "show binary table of cell type presence in @organism"
+      ],
+      "slotFilling": {
+        "organism": {
+          "mandatory": true,
+          "question": "You requested cell type X organ presence table: in what organism?"
+        }
+      }
+    },
+    {
+      "intent": "celltypexorgan.chromatinAccessibility",
+      "utterances": [
+        "show the table of cell types by chromatin accessibility in all @organism organs",
+        "what cell types are present in chromatin accessibility in each organ of @organism",
+        "show the presence matrix in chromatin accessibility for cell types in @organism",
+        "where are cell types found by chromatin accessibility in @organism",
+        "show cell type presence by chromatin accessibility across organs",
+        "show binary table of cell type presence by chromatin accessibility in @organism"
+      ],
+      "slotFilling": {
+        "organism": {
+          "mandatory": true,
+          "question": "You requested cell type X organ presence table: in what organism?"
+        }
+      }
+    },
+    {
+      "intent": "average.geneExpression",
+      "utterances": [
+        "what is the expression of @features?",
+        "what is the expression of @features in @organism?",
+        "what is the expression of @features in @organism @organ?",
+        "what is the expression level of @features in @organism @organ?",
+        "show the expression of @features in @organism @organ?",
+        "plot the expression of @features in @organism @organ?",
+        "display the expression of @features in @organism @organ?"
+      ],
+      "slotFilling": {
+        "features": {
+          "mandatory": true,
+          "question": "You requested average gene expression: what genes?"
+        },
+        "organism": {
+          "mandatory": true,
+          "question": "You requested average gene expression: in what organism?"
+        },
+        "organ": {
+          "mandatory": true,
+          "question": "You requested average gene expression: in what organ?"
+        }
+      }
+    },
+    {
+      "intent": "average.chromatinAccessibility",
+      "utterances": [
+        "what is the chromatin accessibility of @features?",
+        "what is the chromatin accessibility of @features in @organism?",
+        "what is the chromatin accessibility of @features in @organism @organ?",
+        "what is the accessibility of @features in @organism @organ?",
+        "show the accessibility of @features in @organism @organ?",
+        "plot the accessibility of @features in @organism @organ?",
+        "display the chromatin accessibility of @features in @organism @organ?"
+      ],
+      "slotFilling": {
+        "features": {
+          "mandatory": true,
+          "question": "You requested average chromatin accessibility: what peaks?"
+        },
+        "organism": {
+          "mandatory": true,
+          "question": "You requested average chromatin accessibility: in what organism?"
+        },
+        "organ": {
+          "mandatory": true,
+          "question": "You requested average chromatin accessibility: in what organ?"
+        }
+      }
+    },
+    {
+      "intent": "fraction_detected.geneExpression",
+      "utterances": [
+        "what is the fraction of cells expressing @features?",
+        "what is the fraction of cells expressing @features in @organism?",
+        "what is the fraction of cells expressing @features in @organism @organ?",
+        "show the fraction of cells expressing @features in @organism @organ",
+        "show a dotplot of @features in @organism @organ",
+        "make a dotplot of @features in @organism @organ",
+        "display a dotplot of @features in @organism @organ",
+        "plot the fraction of cells expressing @features in @organism @organ?",
+        "display the fraction of cells expressing @features in @organism @organ?"
+      ],
+      "slotFilling": {
+        "features": {
+          "mandatory": true,
+          "question": "You requested fraction of cells expressing: what genes?"
+        },
+        "organism": {
+          "mandatory": true,
+          "question": "You requested fraction of cells expressing: in what organism?"
+        },
+        "organ": {
+          "mandatory": true,
+          "question": "You requested fraction of cells expressing: in what organ?"
+        }
+      }
+    },
+    {
+      "intent": "neighborhood.geneExpression",
+      "utterances": [
+        "show cell neighborhoods of @features in @organism @organ",
+        "what are the metacells of @features in @organism @organ?",
+        "what are the cell states of @features in @organism @organ?",
+        "what is the expression of @features across cell states in @organism @organ?",
+        "what is the expression of @features across metacells in @organism @organ?",
+        "what is the expression of @features across neighborhoods in @organism @organ?"
+      ],
+      "slotFilling": {
+        "features": {
+          "mandatory": true,
+          "question": "You requested cell neighborhoods: what genes?"
+        },
+        "organism": {
+          "mandatory": true,
+          "question": "You requested cell neighborhoods: in what organism?"
+        },
+        "organ": {
+          "mandatory": true,
+          "question": "You requested cell neighborhoods: in what organ?"
+        }
+      }
+    },
+    {
+      "intent": "markers.geneExpression",
+      "utterances": [
+        "show @nFeatures markers for @celltype",
+        "show @nFeatures markers of @celltype",
+        "show marker genes for @celltype",
+        "show marker genes of @celltype",
+        "plot the @nFeatures top marker genes for @celltype in @organism @organ",
+        "show the @nFeatures top marker genes for @celltype in @organism @organ",
+        "show the @nFeatures top marker genes of @celltype in @organism @organ",
+        "plot the @nFeatures marker genes for @celltype in @organism @organ",
+        "show the @nFeatures marker genes for @celltype in @organism @organ",
+        "show the @nFeatures marker genes of @celltype in @organism @organ",
+        "what are the marker genes for @celltype in @organism @organ?",
+        "what are the markers for @celltype in @organism @organ?"
+      ],
+      "slotFilling": {
+        "nFeatures": {
+          "mandatory": true,
+          "question": "You requested marker genes: how many?"
+        },
+        "celltype": {
+          "mandatory": true,
+          "question": "You requested marker genes: what cell type?"
+        },
+        "organism": {
+          "mandatory": true,
+          "question": "You requested marker genes: in what organism?"
+        },
+        "organ": {
+          "mandatory": true,
+          "question": "You requested marker genes: in what organ?"
+        }
+      }
+    },
+    {
+      "intent": "markers.chromatinAccessibility",
+      "utterances": [
+        "show @nFeatures marker peaks for @celltype",
+        "show @nFeatures marker peaks of @celltype",
+        "show marker peaks for @celltype",
+        "show marker peaks of @celltype",
+        "plot the @nFeatures top marker peaks for @celltype in @organism @organ",
+        "show the @nFeatures top marker peaks for @celltype in @organism @organ",
+        "show the @nFeatures top marker peaks of @celltype in @organism @organ",
+        "plot the @nFeatures marker peaks for @celltype in @organism @organ",
+        "show the @nFeatures marker peaks for @celltype in @organism @organ",
+        "show the @nFeatures marker peaks of @celltype in @organism @organ",
+        "what are the marker peaks for @celltype in @organism @organ?"
+      ],
+      "slotFilling": {
+        "nFeatures": {
+          "mandatory": true,
+          "question": "You requested marker peaks: how many?"
+        },
+        "celltype": {
+          "mandatory": true,
+          "question": "You requested marker peaks: what cell type?"
+        },
+        "organism": {
+          "mandatory": true,
+          "question": "You requested marker peaks: in what organism?"
+        },
+        "organ": {
+          "mandatory": true,
+          "question": "You requested marker peaks: in what organ?"
+        }
+      }
+    },
+    {
+      "intent": "highest_measurement.geneExpression",
+      "utterances": [
+        "who expresses @features?",
+        "who expresses @features the most?",
+        "what cell type expresses @features the most?",
+        "who expresses @features in @organism?",
+        "who expresses most @features in @organism?",
+        "who is the highest expressor of @features in @organism?",
+        "who is the highest expressing cell type of @features in @organism?",
+        "what cell type is the highest expressor of @features in @organism?",
+        "who expresses @features the highest in @organism?",
+        "list highest expressors of @features in @organism",
+        "show top expressing cell types of @features in @organism"
+      ],
+      "slotFilling": {
+        "features": {
+          "mandatory": true,
+          "question": "You requested highest expressors: of what gene?"
+        },
+        "organism": {
+          "mandatory": true,
+          "question": "You requested highest expressors: in what organism?"
+        }
+      }
+    },
+    {
+      "intent": "average.geneExpression.across_organs",
+      "utterances": [
+        "compare expression of @features in @celltype across organs in @organism",
+        "compare expression of @features in @celltype across tissues in @organism",
+        "what is the expression of @features across organs in @organism @celltype?",
+        "what is the expression of @features across tissues in @organism @celltype?",
+        "what is the gene expression of @features across organs in @organism @celltype?",
+        "what is the gene expression of @features across tissues in @organism @celltype?",
+        "across @organism tissues, what is the expression of @features in @celltype?",
+        "across tissues in @organism, what is the expression of @features in @celltype?"
+      ],
+      "slotFilling": {
+        "features": {
+          "mandatory": true,
+          "question": "You requested average expression across organs: what genes?"
+        },
+        "organism": {
+          "mandatory": true,
+          "question": "You requested average expression across organs: in what organism?"
+        },
+        "celltype": {
+          "mandatory": true,
+          "question": "You requested average expression across organs: in what cell type?"
+        }
+      }
+    },
+    {
+      "intent": "fraction_detected.geneExpression.across_organs",
+      "utterances": [
+        "compare fraction of cells expressing @features in @celltype across organs in @organism",
+        "compare fraction of cells expressing @features in @celltype across tissues in @organism",
+        "what is the fraction of cells expressing @features across organs in @organism @celltype?",
+        "what is the fraction of cells expressing @features across tissues in @organism @celltype?",
+        "what is the fraction expressing @features across organs in @organism @celltype?",
+        "what is the fraction expressing @features across tissues in @organism @celltype?",
+        "across @organism tissues, what is the fraction of cells expressing @features in @celltype?",
+        "across tissues in @organism, what is the fraction expressing @features in @celltype?"
+      ],
+      "slotFilling": {
+        "features": {
+          "mandatory": true,
+          "question": "You requested average expression across organs: what genes?"
+        },
+        "organism": {
+          "mandatory": true,
+          "question": "You requested average expression across organs: in what organism?"
+        },
+        "celltype": {
+          "mandatory": true,
+          "question": "You requested average expression across organs: in what cell type?"
+        }
+      }
+    },
+    {
+      "intent": "highest_measurement.chromatinAccessibility",
+      "utterances": [
+        "who has the most accessible chromatin at @features in @organism?",
+        "who has the most open peaks in @features in @organism?",
+        "who is the highest accessibility of @features in @organism?",
+        "who is the cell type with the highest accessibility of @features in @organism?",
+        "who opens @features the highest in @organism?",
+        "list highest accessibility of @features in @organism",
+        "show top accessible cell types of @features in @organism"
+      ],
+      "slotFilling": {
+        "features": {
+          "mandatory": true,
+          "question": "You requested highest accessibility: of what peaks?"
+        },
+        "organism": {
+          "mandatory": true,
+          "question": "You requested highest accessibility: in what organism?"
+        }
+      }
+    },
+    {
+      "intent": "similar_features.geneExpression",
+      "utterances": [
+        "what are @nFeatures genes similar to @features in @organism @organ?",
+        "show @nFeatures genes similar to @features in @organism @organ",
+        "show @nFeatures genes like @features in @organism @organ",
+        "show @nFeatures similar genes to @features in @organism @organ"
+      ],
+      "slotFilling": {
+        "nFeatures": {
+          "mandatory": true,
+          "question": "You requested similar genes: how many?"
+        },
+        "features": {
+          "mandatory": true,
+          "question": "You requested similar genes: similar to what gene?"
+        },
+        "organism": {
+          "mandatory": true,
+          "question": "You requested similar genes: in what organism?"
+        },
+        "organ": {
+          "mandatory": true,
+          "question": "You requested similar genes: in what organ?"
+        }
+      }
+    },
+    {
+      "intent": "similar_features.chromatinAccessibility",
+      "utterances": [
+        "what are @nFeatures peaks similar to @features in @organism @organ?",
+        "show @nFeatures peaks similar to @features in @organism @organ",
+        "show @nFeatures peaks like @features in @organism @organ",
+        "show @nFeatures similar peaks to @features in @organism @organ"
+      ],
+      "slotFilling": {
+        "nFeatures": {
+          "mandatory": true,
+          "question": "You requested similar peaks: how many?"
+        },
+        "features": {
+          "mandatory": true,
+          "question": "You requested similar peaks: similar to what gene?"
+        },
+              "organism": {
+          "mandatory": true,
+          "question": "You requested similar peaks: in what organism?"
+        },
+        "organ": {
+          "mandatory": true,
+          "question": "You requested similar peaks: in what organ?"
+        }
+      }
+    },
+    {
+      "intent": "similar_celltypes.geneExpression",
+      "utterances": [
+        "what cell types are similar to @organ @celltype in @organism?",
+        "what are cell types similar to @organ @celltype in @organism?",
+        "show @nCelltypes cell types similar to @organ @celltype in @organism",
+        "show cell types like @organ @celltype",
+        "show cell types like @celltype",
+        "show @nCelltypes cell types like @organ @celltype in @organism",
+        "show @nCelltypes similar cell types to @organ @celltype in @organism"
+      ],
+      "slotFilling": {
+	      "nCelltypes": {
+	        "mandatory": false,
+          "default": 10,
+	        "question": "You requested similar cell types: how many?"
+        },
+        "organism": {
+          "mandatory": true,
+          "question": "You requested similar cell types: in what organism?"
+        },
+        "organ": {
+          "mandatory": true,
+          "question": "You requested similar cell types: similar to a cell type from what organ?"
+        },
+        "celltype": {
+          "mandatory": true,
+          "question": "You requested similar cell types: similar to what cell type?"
+        },
+        "features": {
+          "mandatory": true,
+          "question": "You requested similar cell types. Similarity between cell types is a little ambiguous and depends on the genes chosen. What genes would you like to use?"
+        }
+      }
+    },
+    {
+      "intent": "similar_celltypes.chromatinAccessibility",
+      "utterances": [
+        "what are cell types in chromatin accessibility similar to @organ @celltype in @organism?",
+        "show @nCelltypes cell types with similar chromatin peaks to @organ @celltype in @organism",
+        "show cell types like @organ @celltype by chromatin accessibility",
+        "show @nCelltypes cell types like @organ @celltype by chromatin accessibility in @organism",
+        "show @nCelltypes similar cell types to @organ @celltype in @organism by chromatin accessibility"
+      ],
+      "slotFilling": {
+	      "nCelltypes": {
+	        "mandatory": false,
+          "default": 10,
+	        "question": "You requested similar cell types: how many?"
+        },
+        "organism": {
+          "mandatory": true,
+          "question": "You requested similar cell types: in what organism?"
+        },
+        "organ": {
+          "mandatory": true,
+          "question": "You requested similar cell types: similar to a cell type from what organ?"
+        },
+        "celltype": {
+          "mandatory": true,
+          "question": "You requested similar cell types: similar to what cell type?"
+        }
+      }
+    },
+    {
+      "intent": "feature_sequences.geneExpression",
+      "utterances": [
+        "what are the sequences of @features in @organism?",
+        "show the sequences of @features in @organism",
+        "what is the sequence of @features in @organism?",
+        "display the sequence of @features in @organism"
+      ],
+      "slotFilling": {
+        "features": {
+          "mandatory": true,
+          "question": "You requested gene sequences: what genes?"
+        }, 
+        "organism": {
+          "mandatory": true,
+          "question": "You requested gene sequences: in what organism?"
+        }
+      }
+    },
+    {
+      "intent": "add.features",
+      "utterances": [
+        "add @features",
+        "include @features"
+      ],
+      "slotFilling": {
+        "features": {
+          "mandatory": true,
+          "question": "You requested add features: what features?"
+        } 
+      }
+    },
+    {
+      "intent": "remove.features",
+      "utterances": [
+        "remove @features",
+        "delete @features"
+      ],
+      "slotFilling": {
+        "features": {
+          "mandatory": true,
+          "question": "You requested remove features: what features?"
+        }
+      }
+    },
+    {
+      "intent": "plot.log",
+      "utterances": [
+        "log",
+        "exp",
+        "log data",
+        "take the log",
+        "unlog data",
+        "toggle log",
+        "logarithm of data",
+        "exponentiate data",
+        "take the logarithm"
+      ]
+    },
+    {
+      "intent": "download",
+      "utterances": [
+        "download",
+        "download as @format",
+        "download all",
+        "download data"
+      ],
+      "slotFilling": {
+        "format": {
+          "mandatory": false,
+          "question": "You requested download. What file format?"
+        }
+      }
+    },
+    {
+      "intent": "zoom.in.neighborhood",
+      "utterances": [
+        "could you zoom in?",
+        "is it possible to increase detail?",
+        "show cell states",
+        "show metacells",
+        "show neighborhoods",
+        "zoom in",
+        "explore cell states",
+        "zoom in metacells",
+        "increase detail",
+        "add detail",
+        "more detail",
+        "more granular",
+        "more complexity",
+        "more complex",
+        "more information",
+        "more info"
+      ]
+    },
+    {
+      "intent": "zoom.out.neighborhood",
+      "utterances": [
+        "could you zoom out?",
+        "is it possible to reduce detail?",
+        "simplify data",
+        "coarse grain",
+        "zoom out",
+        "show cell types",
+        "explore cell types",
+        "zoom out to cell types",
+        "decrease detail",
+        "reduce detail",
+        "less detail",
+        "fewer details",
+        "less granular",
+        "simpler",
+        "less complexity",
+        "less complex",
+        "less information",
+        "less info"
+      ]
+    }
+  ],
+
+  "entities": {
+    "organism": {
+      "options": {
+        "h_sapiens": ["human", "h_sapiens", "homo sapiens"],
+        "m_musculus": ["mouse", "murine", "m_musculus"],
+        "m_murinus": [
+          "monkey", "lemur", "mouse lemur", "m_murinus",
+          "microbebus murinus", "microcebus"
+        ],
+        "d_rerio": ["d_rerio", "zebrafish", "fish"],
+        "c_elegans": ["c_elegans", "worm"],
+        "a_queenslandica": ["a_queenslandica", "amphimedon"],
+        "t_adherens": ["t_adherens", "trichoplax", "placozoa"],
+        "s_lacustris": ["s_lacustris", "sponge"],
+        "x_laevis": ["x_laevis", "xenopus", "frog"],
+        "m_leidyi": ["m_leidyi", "ctenophore", "jellyfish"],
+        "s_mediterranea": ["s_mediterranea", "planarian", "plenaria", "flatworm"],
+        "s_mansoni": ["s_mansoni", "schistosome"],
+        "h_miamia": ["h_miamia", "acoel", "hofstenia"],
+        "d_melanogaster": ["d_melanogaster", "drosophila", "fly", "fruitfly"],
+        "i_pulchra": ["i_pulchra", "isodiametra"],
+        "l_minuta": ["l_minuta", "lemna", "duckweed"],
+        "n_vectensis": ["n_vectensis", "nematostella", "Nematostella"]
+      }
+    },
+    "organ": {
+      "options": {
+        "adrenal": ["adrenal", "adrenal gland"],
+        "antenna": ["antenna", "antennae"],
+        "bone_marrow": ["marrow", "bone marrow"],
+        "brain": ["brain", "head"],
+        "colon": ["colon", "large intestine", "rectum"],
+        "esophagus": ["esophagus"],
+        "eye": ["eye", "eyes"],
+        "fat": ["fat", "brown fat", "white fat"],
+        "gut": ["intestine", "gut", "small intestine", "duodenum"],
+        "haltere": ["haltere", "Haltere"],
+        "malpighian": ["malpighian_tubule", "malpighian", "tubule"],
+        "heart": ["Heart", "heart"],
+        "kidney": ["kidney", "kidneys"],
+        "leg": ["leg", "legs"],
+        "liver": ["liver"],
+        "lung": ["Lung", "lung"],
+        "male_reproductive": ["male_reproductive"],
+        "muscle": ["muscle", "muscles"],
+        "ovary": ["ovary", "ovaries"],
+        "oenocyte": ["oenocyte", "oenocytes"],
+        "oviduct": ["oviduct"],
+        "pancreas": ["Pancreas", "pancreas"],
+        "proboscis": ["proboscis", "Proboscis"],
+        "salivary": ["Salivary", "salivary gland"],
+        "skin": ["skin"],
+        "spleen": ["spleen"],
+        "stomach": ["stomach"],
+        "testis": ["testis", "testes"],
+        "thymus": ["thymus"],
+        "thyroid": ["thyroid"],
+        "tongue": ["Tongue", "tongue"],
+        "trachea": ["trachea"],
+        "uterus": ["uterus"],
+        "root": ["root", "Root"],
+        "leaf": ["leaf", "leaves", "Leaf", "Leaves"],
+        "whole": ["whole", "entire"],
+        "wall": ["wall", "Wall", "body_wall"],
+        "wing": ["wing", "wings"]
+      }
+    },
+    "format": {
+      "options": {
+        "fasta": ["fasta", "Fasta"],
+        "png": ["png", "image", "raster"],
+        "svg": ["svg", "vector"]
+      }
+    },
+    "features": {
+      "regex": [
+        "/(?:dotplot of|sequence of|expression of|cells expressing) ([\\w;,.\/]+)/i",
+        "/(?:accessibility of) ([\\w;,:\/-]+)/i",
+        "/(?:genes similar to|genes like|similar genes to) ([\\w;,.\/]+)/i",
+        "/(?:peaks similar to|peaks like|similar peaks to) ([\\w;,.\/]+)/i",
+        "/(?:expresses|expresses most|expressor of|expressors of|expressing) ([\\w;,.\/]+)/i",
+        "/(?:add|include|delete|remove) ([\\w;:,.\/]+)/i"
+      ]
+    },
+    "nFeatures": {
+      "regex": [
+        "/([0-9]+) (genes|marker|top|feature|peak|similar)/i"
+      ]
+    },
+    "nCelltypes": {
+      "regex": [
+        "/([0-9]+) (cell types|similar cell)/i"
+      ]
+    },
+    "celltype": {
+      "regex": [
+        "/(?:types like|similar) (?:as|to) (\\w+)/i",
+        "/(?:types like|similar as|similar to) (?:\\w+) (\\w+)/i",
+        "/with (?:similar genes|similar peaks|similar chromatin peaks) (?:as|to) (\\w+)/i",
+        "/(?:for|markers of|marker genes of|marker peaks of) (\\w+)/i",
+        "/(?:where are|where were|organs contain|organs containing|locations of|location of) (\\w+)/i",
+        "/across (?:organs|tissues) in (?:\\w+) (\\w+)/i",
+        "/in (?:\\w+) (\\w+) across (?:organs|tissues)/i",
+        "/in (\\w+) across (?:organs|tissues)/i"
+      ]
+    }
+  }
+}

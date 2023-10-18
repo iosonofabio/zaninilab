@@ -5,8 +5,8 @@ PELICANOPTS=
 BASEDIR=$(CURDIR)
 INPUTDIR=$(BASEDIR)/content
 OUTPUTDIR=$(BASEDIR)/docs
-CONFFILE=$(BASEDIR)/pelicanconf.py
-PUBLISHCONF=$(BASEDIR)/publishconf.py
+CONFFILE=$(BASEDIR)/pelicanconf_local.py
+PUBLISHCONF=$(BASEDIR)/pelicanconf_deploy.py
 
 SSH_HOST=
 SSH_PORT=22

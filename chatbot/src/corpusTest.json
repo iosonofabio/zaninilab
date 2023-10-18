@@ -1,0 +1,20 @@
+{
+  "name": "Corpus for FabilabChatbot",
+  "locale": "en-US",
+  "data": [
+    {
+      "intent": "who",
+      "utterances": [
+        "who are you?",
+        "list the lab members",
+        "who is in the group",
+        "who are the people in the lab?",
+        "people",
+        "lab members"
+      ]
+    }
+  ],
+  "entities": [
+    
+  ]
+}
