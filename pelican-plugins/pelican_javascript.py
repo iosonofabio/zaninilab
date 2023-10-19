@@ -7,6 +7,7 @@ articles.
 """
 import os
 import shutil
+import subprocess as sp
 
 from pelican import signals
 
@@ -63,10 +64,17 @@ def move_resources(gen):
     """
     Move files from js/css folders to output folder
     """
-    # JS files
+    # Pure JS files
     js_files = gen.get_files('js', extensions='js')
     js_dest = os.path.join(gen.output_path, 'js')
     copy_resources(gen.path, js_dest, js_files)
+
+    # Chatbot files via webpack
+    sp.run('npm run build', shell=True)
+    chatbot_src = os.path.join(gen.output_path, 'js', 'main.js')
+    chatbot_dest = os.path.join(gen.output_path, 'js', 'chatbot.js')
+    shutil.move(chatbot_src, chatbot_dest)
+    os.remove(chatbot_src + '.LICENSE.txt')
 
     # CSS files
     css_files = gen.get_files('css', extensions='css')

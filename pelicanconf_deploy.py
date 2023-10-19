@@ -10,7 +10,7 @@ import os
 import sys
 sys.path.append(os.curdir)
 # Import config for local development and overwrite a bunch of things
-from pelicanconf import *
+from pelicanconf_local import *
 
 SITEURL = 'https://fabilab.org'
 #SITEURL = 'https://iosonofabio.github.io/zaninilab'

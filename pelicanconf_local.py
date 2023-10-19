@@ -12,7 +12,7 @@ PAGE_PATHS = ['pages']
 ARTICLE_PATHS = ['posts']
 PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = [
-#    'pelican_javascript',
+    'pelican_javascript',
 ]
 
 # Blogroll
@@ -48,3 +48,6 @@ AUTHOR_FEED_RSS = None
 # like this
 SITEURL = ''
 RELATIVE_URLS = True
+
+# CHATBOT
+CHATBOT = True
