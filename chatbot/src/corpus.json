@@ -34,6 +34,10 @@
     {
       "intent": "contact",
       "utterances": [
+        "how do I contact you?",
+        "address",
+        "email",
+        "contact",
         "how can I reach you?",
         "what is your email?",
         "show email address",
