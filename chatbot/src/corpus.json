@@ -3,7 +3,7 @@
   "locale": "en-US",
   "data": [
     {
-      "intent": "who",
+      "intent": "people",
       "utterances": [
         "who are you?",
         "list the lab members",
@@ -11,6 +11,43 @@
         "who are the people in the lab?",
         "people",
         "lab members"
+      ]
+    },
+    {
+      "intent": "teaching",
+      "utterances": [
+        "what do you teach?",
+        "show list of talks",
+        "show presentations",
+        "where are the talk slides?"
+      ]
+    },
+    {
+      "intent": "contact",
+      "utterances": [
+        "how can I reach you?",
+        "what is your email?",
+        "show email address",
+        "where is the lab?",
+        "where are you?"
+      ]
+    },
+    {
+      "intent": "join",
+      "utterances": [
+        "how can I join you?",
+        "I am interesting in joining",
+        "are there any open positions?",
+        "show opportunities"
+      ]
+    },
+    {
+      "intent": "publications",
+      "utterances": [
+        "what did you publish?",
+        "show list of papers",
+        "show publications",
+        "did you write any articles?"
       ]
     }
   ],
