@@ -44,7 +44,7 @@ const askAndRedirect = async (question) => {
   // Connect event listener for chatbot HTML fotm
   // THANKS TO: https://stackoverflow.com/questions/5384712/intercept-a-form-submit-in-javascript-and-prevent-normal-submission
   window.onload = function() {
-    const question = defaultQuestions[getRandomInt(0, defaultQuestions.length - 1)];
+    const newQuestion = defaultQuestions[getRandomInt(0, defaultQuestions.length - 1)];
     let input = document.getElementById('chatbotText');
     input.value = newQuestion;
 
