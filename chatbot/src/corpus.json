@@ -125,6 +125,7 @@
       "intent": "software",
       "utterances": [
         "what kind of software are you maintaining?",
+        "show me your software",
         "open source",
         "what packages have you written?",
         "is igraph done by fabilab?",

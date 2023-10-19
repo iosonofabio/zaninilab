@@ -8,13 +8,13 @@ const defaultQuestions = [
   "where are you?",
   "what do you teach?",
   "how do I join?",
-  "what code do you write?",
+  "show me your software",
   "what's new?",
   "are you in Sydney?",
   "show me the blog",
   "where are your slides?",
   "what are you into?",
-  "who are the lab members?",
+  "list the lab members",
 ];
 
 
@@ -43,6 +43,9 @@ const intentCallback = (intent) => {
       break;
     case "scholar":
       url = "https://scholar.google.com/citations?user=XMDw5-4AAAAJ";
+      break;
+    case "news":
+      url = "/" + intent + ".html";
       break;
     default:
       url = "/pages/" + intent + ".html";

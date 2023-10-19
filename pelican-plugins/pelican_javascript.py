@@ -71,10 +71,6 @@ def move_resources(gen):
 
     # Chatbot files via webpack
     sp.run('npm run build', shell=True)
-    chatbot_src = os.path.join(gen.output_path, 'js', 'main.js')
-    chatbot_dest = os.path.join(gen.output_path, 'js', 'chatbot.js')
-    shutil.move(chatbot_src, chatbot_dest)
-    os.remove(chatbot_src + '.LICENSE.txt')
 
     # CSS files
     css_files = gen.get_files('css', extensions='css')
