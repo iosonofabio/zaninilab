@@ -111,6 +111,30 @@
         "show publications",
         "did you write any articles?"
       ]
+    },
+    {
+      "intent": "software",
+      "utterances": [
+        "what kind of software are you maintaining?",
+        "open source",
+        "what packages have you written?",
+        "is igraph done by fabilab?",
+        "is HTSeq developed by fabilab?",
+        "Python packages"
+      ]
+    },
+    {
+      "intent": "news",
+      "utterances": [
+        "what's up?",
+        "what's new?",
+        "show the news",
+        "blog",
+        "what is happening?",
+        "what is new at fabilab?",
+        "any news?",
+        "latest at fabilab"
+      ]
     }
   ],
   "entities": [
