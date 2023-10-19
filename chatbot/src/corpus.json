@@ -14,6 +14,15 @@
       ]
     },
     {
+      "intent": "research",
+      "utterances": [
+        "what do you research?",
+        "show list of projects",
+        "show projects",
+        "where are the research projects?"
+      ]
+    },
+    {
       "intent": "teaching",
       "utterances": [
         "what do you teach?",
@@ -33,7 +42,7 @@
       ]
     },
     {
-      "intent": "join",
+      "intent": "jointhelab",
       "utterances": [
         "how can I join you?",
         "I am interesting in joining",

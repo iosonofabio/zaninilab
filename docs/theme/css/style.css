@@ -233,6 +233,22 @@ aside > h2 {
 }
 
 
+/*--------Chat bot--------------*/
+#chatbot
+{
+  margin-top: 0px;
+  margin-bottom: 20px;
+}
+
+#chatbotText
+{
+  padding: 10px;
+  border-radius: 6px;
+  font-family:inherit;
+  font-size: inherit;
+}
+
+
 /*--------Responsive------------*/
 
 @media (max-width: 800px) {

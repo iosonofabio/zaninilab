@@ -68,6 +68,14 @@
       </script>
     {% endif %}
 
+    {% if CHATBOT %}
+    <div id="chatbot">
+      <form id="chatbotForm">
+        <input type="text" id="chatbotText" name="chatbotText">
+      </form>
+    </div>
+    {% endif %}
+
     <div id="menuArrowDown"><img src="{{ SITEURL }}/theme/images/icons/arrowdown.svg" /></div>
     <nav class="nav">
       <ul class="list-bare">
