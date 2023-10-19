@@ -51,7 +51,7 @@
       ]
     },
     {
-      "intent": "publications",
+      "intent": "papers",
       "utterances": [
         "what did you publish?",
         "show list of papers",
