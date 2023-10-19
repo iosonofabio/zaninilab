@@ -20,12 +20,20 @@ function getRandomInt(min, max) {
 
 const intentCallback = (intent) => {
   let url;
-  if (intent === "None")
-    url = "/";
-  else if (intent === "research")
-    url = "/"
-  else
-    url = "/pages/" + intent + ".html";
+  switch (intent) {
+    case "None":
+    case "research":
+      url = "/";
+      break;
+    case "like":
+      document.getElementById('chatbotText').value = "😊";
+      return;
+    case "dislike":
+      document.getElementById('chatbotText').value = "😔";
+      return;
+    default:
+      url = "/pages/" + intent + ".html";
+  }
   window.location.href = url;
 };
 

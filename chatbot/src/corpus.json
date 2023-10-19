@@ -3,14 +3,57 @@
   "locale": "en-US",
   "data": [
     {
+      "intent": "like",
+      "utterances": [
+        "hello",
+        "good morning",
+        "good day",
+        "g'day",
+        "hey",
+        "hey mate",
+        "hi",
+        "ciao",
+        "hola",
+        "hi there",
+        "buongiorno",
+        "this page is good",
+        "this website is great",
+        "I love this page",
+        "I like this website",
+        "thank you!",
+        "you are fantastic",
+        "this is amazing",
+        "really nice",
+        "actually gorgeous"
+      ]
+    },
+    {
+      "intent": "dislike",
+      "utterances": [
+        "I don't like it",
+        "I dislike this",
+        "this is bad",
+        "this is confusing",
+        "shut up",
+        "this website is dumb",
+        "horrible",
+        "this is really not good",
+        "this website is a gimmick"
+      ]
+    },
+    {
       "intent": "people",
       "utterances": [
         "who are you?",
+        "who is fabilab?",
+        "who belongs to fabilab?",
         "list the lab members",
         "who is in the group",
         "who are the people in the lab?",
         "people",
-        "lab members"
+        "lab members",
+        "members of fabilab",
+        "data driven biomedicine lab"
       ]
     },
     {
@@ -42,7 +85,12 @@
         "what is your email?",
         "show email address",
         "where is the lab?",
-        "where are you?"
+        "where are you?",
+        "are you in Sydney?",
+        "are you in Australia?",
+        "where is the lab based?",
+        "is the lab in Europe?",
+        "is the lab in the US?"
       ]
     },
     {
@@ -51,7 +99,8 @@
         "how can I join you?",
         "I am interesting in joining",
         "are there any open positions?",
-        "show opportunities"
+        "show opportunities",
+        "this is cool"
       ]
     },
     {
