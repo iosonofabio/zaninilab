@@ -8,6 +8,13 @@ const defaultQuestions = [
   "where are you?",
   "what do you teach?",
   "how do I join?",
+  "what code do you write?",
+  "what's new?",
+  "are you in Sydney?",
+  "show me the blog",
+  "where are your slides?",
+  "what are you into?",
+  "who are the lab members?",
 ];
 
 
@@ -31,6 +38,12 @@ const intentCallback = (intent) => {
     case "dislike":
       document.getElementById('chatbotText').value = "😔";
       return;
+    case "github":
+      url = "https://github.com/fabilab/";
+      break;
+    case "scholar":
+      url = "https://scholar.google.com/citations?user=XMDw5-4AAAAJ";
+      break;
     default:
       url = "/pages/" + intent + ".html";
   }

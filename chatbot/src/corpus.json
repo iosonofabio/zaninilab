@@ -48,6 +48,7 @@
         "who is fabilab?",
         "who belongs to fabilab?",
         "list the lab members",
+        "who are the lab members?",
         "who is in the group",
         "who are the people in the lab?",
         "people",
@@ -62,7 +63,14 @@
         "what do you research?",
         "show list of projects",
         "show projects",
-        "where are the research projects?"
+        "where are the research projects?",
+        "what are you into?",
+        "what are you interested in?",
+        "what projects are available?",
+        "what's your jam?",
+        "what's the big deal?",
+        "what is this about?",
+        "what kind of research do you do?"
       ]
     },
     {
@@ -71,7 +79,8 @@
         "what do you teach?",
         "show list of talks",
         "show presentations",
-        "where are the talk slides?"
+        "where are the talk slides?",
+        "where are your slides?"
       ]
     },
     {
@@ -120,7 +129,9 @@
         "what packages have you written?",
         "is igraph done by fabilab?",
         "is HTSeq developed by fabilab?",
-        "Python packages"
+        "Python packages",
+        "what kind of code do you write?",
+        "what code do you write?"
       ]
     },
     {
@@ -134,6 +145,27 @@
         "what is new at fabilab?",
         "any news?",
         "latest at fabilab"
+      ]
+    },
+    {
+      "intent": "github",
+      "utterances": [
+        "are you on github?",
+        "what's the lab github?",
+        "link to github",
+        "go to github",
+        "get github profile",
+        "show github organisation"
+      ]
+    },
+    {
+      "intent": "scholar",
+      "utterances": [
+        "do you have google scholar?",
+        "are you on scholar?",
+        "show google scholar",
+        "Fabio's scholar profile",
+        "what's your google scholar?"
       ]
     }
   ],
