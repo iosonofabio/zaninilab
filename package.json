@@ -15,7 +15,7 @@
   },
   "scripts": {
     "train": "node chatbot/src/train.js",
-    "prebuild": "npm run train && cp chatbot/src/app.js chatbot/build/index.js",
+    "prebuild": "npm run train && cp chatbot/src/app.js chatbot/build/chatbot.js && cp chatbot/src/webpack.js chatbot/build/index.js",
     "build": "npm run prebuild && webpack --config chatbot/webpack.config.js --mode=production --node-env=production",
     "test": "run(){ node chatbot/test/testCorpus.js \"$1\" \"$2\"; }; run",
     "build:dev": "npm run prebuild && webpack --config chatbot/webpack.config.js --mode=development",

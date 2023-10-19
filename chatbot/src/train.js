@@ -9,9 +9,7 @@ const fs = require('fs');
         forceNER: true,
         languages: ["en"],
         corpora: [
-          // FIXME
-          //"./chatbot/src/corpus.json",
-          "./chatbot/src/corpusTest.json",
+          "./chatbot/src/corpus.json",
         ],
       }
     },
