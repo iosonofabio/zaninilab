@@ -124,7 +124,7 @@ I am an undergraduate student with a keen interest in computational biology, sin
 <h2>Yuancong&nbsp;Cheng</h2>
 <p><img alt="Yuancong Cheng" src="../images/people/yuancong_cheng.jpg"></p>
 <p><a href="mailto:yuancong.cheng@student.unsw.edu.au">yuancong DOT cheng <span class="caps">AT</span> student <span class="caps">DOT</span>&nbsp;unsw <span class="caps">DOT</span>&nbsp;edu  <span class="caps">DOT</span>&nbsp;au</a></p>
-I am a computer science honour student with interest in bioinformatics. I love coding, debuggingg and data analysis. Outside of my studies, I enjoy traveling, photography and cooking.
+I am a computer science honour student with interest in bioinformatics. I love coding, debugging and data analysis. Outside of my studies, I enjoy traveling, photography and cooking.
 </div>
 
 <div class="lab-member">
