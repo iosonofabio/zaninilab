@@ -27,6 +27,14 @@ template: people
 </div>
 
 <div class="lab-member">
+<h2>Priscilla&nbsp;Boon</h2>
+<p><img alt="Priscilla Boon" src="../images/people/priscilla_boon.jpg" width="232px"></p>
+<p><a href="mailto:p.boon@unsw.edu.au">p DOT boon <span class="caps">AT</span> unsw <span class="caps">DOT</span> edu <span class="caps">DOT</span>&nbsp;au</a></p>
+I love working at the interphase of computer science and biology. I enjoy interpreting and deciphering meaning from all kinds of biological data. Outside of work I enjoy eating and cooking really good food and making things with my hands. 
+</div>
+
+
+<div class="lab-member">
 <h2>Ying&nbsp;Xu</h2>
 <p><img alt="Ying Xu" src="../images/people/ying_xu.jpg"></p>
 <p><a href="mailto:yingxu3@unsw.edu.au">yingxu3 <span class="caps">AT</span> unsw <span class="caps">DOT</span> edu <span class="caps">DOT</span>&nbsp;au</a></p>
