@@ -94,6 +94,7 @@ Beyond work, I love travelling and exploring the outdoors with my husband and&nb
 </div>
 -->
 
+<!--
 <div class="lab-member">
 <h2>Yike&nbsp;Xie</h2>
 <p><img alt="Yike Xie" src="../images/people/yike_xie.jpg"></p>
@@ -101,15 +102,7 @@ Beyond work, I love travelling and exploring the outdoors with my husband and&nb
 <p>I am a PhD student and my background is in pharmacy. My research interests are data analysis and single cell sequencing.
 Outside of work, I like reading and&nbsp;traveling.</p>
 </div>
-
-
-<div class="lab-member">
-<h2>Carsten&nbsp;Knutsen</h2>
-<p>co-supervised: <a href="https://med.stanford.edu/alviralab/about.html">Cristina Alvira</a> @&nbsp;Stanford</p>
-<p><img alt="Karsten Knutsen" src="../images/people/carsten_knutsen.jpg"></p>
-<p><a href="mailto:cknutsen@stanford.edu">cnutsen <span class="caps">AT</span> stanford <span class="caps">DOT</span>&nbsp;edu</a></p>
-I am excited about studying and elucidating complex biological systems. I enjoy working with large datasets such as high-throughput screens and single-cell data. Outside of the lab, I like to spend my time mountain biking, rock climbing, and baking.<p>
-</div>
+-->
 
 <!--
 <div class="lab-member">
@@ -150,6 +143,16 @@ I am an honours student in bioinformatics/biomedical engineering. I enjoy coding
 
 </div>
 </div>
+
+<!--
+<div class="lab-member">
+<h2>Carsten&nbsp;Knutsen</h2>
+<p>co-supervised: <a href="https://med.stanford.edu/alviralab/about.html">Cristina Alvira</a> @&nbsp;Stanford</p>
+<p><img alt="Karsten Knutsen" src="../images/people/carsten_knutsen.jpg"></p>
+<p><a href="mailto:cknutsen@stanford.edu">cnutsen <span class="caps">AT</span> stanford <span class="caps">DOT</span>&nbsp;edu</a></p>
+I am excited about studying and elucidating complex biological systems. I enjoy working with large datasets such as high-throughput screens and single-cell data. Outside of the lab, I like to spend my time mountain biking, rock climbing, and baking.<p>
+</div>
+-->
 
 <!--
 
@@ -205,6 +208,7 @@ Outside of work, I like reading and traveling.
 -->
 
 # Alumni
+- [Yike Xie](mailto:yike.xie@unsw.edu.au): dengue infection, HyperSeq, now postdoc @[GU](https://www.gu.se/en/research/joan-camunas-soler-group)
 - Danny Dien: Natural Language Processing for atlas approximations.
 - Keyi Jiang: single cell omics of neonatal immunity.
 - Givanna Putri: single-cell multi-omics of stem cells, [HTSeq 2.0](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btac166/6551247).
