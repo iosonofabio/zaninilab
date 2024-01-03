@@ -1,11 +1,11 @@
-title: Introducing... fabibot!
-slug: chatbotoct2023
+title: Cell atlas approximations are preprinted!
+slug: approxpreprint2024
 category: blog
-date: 2023-10-19
-modified: 2023-10-19
+date: 2024-01-04
+modified: 2024-01-04
 
-Today, the Fabilab website gains a new friend - our brand new chatbot, fabibot! You can find it in the menu bar (left on laptops, top on phones) and ask it whatever you like. Please be kind ;-)
+Our manuscript on cell atlas approximations, a new way to analyse cell atlases fast and without coding skills, is on bioRxiv!
 
-If you are curious how fabibot works, shoot me an email!
+[https://www.biorxiv.org/content/10.1101/2024.01.03.573994v1](https://www.biorxiv.org/content/10.1101/2024.01.03.573994v1)
 
-Thanks to the folks at [nlpjs](https://github.com/axa-group/nlp.js) for their awesome library.
+Thanks to Ying and Joanna for their hard work on the project!
