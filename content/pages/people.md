@@ -116,10 +116,25 @@ I'm a undergraduate student with an interest in computer science and mathematics
 <div class="lab-member">
 <h2>Catherine&nbsp;Gatt</h2>
 <p><img alt="Catherine Gatt" src="../images/people/catherine_gatt.jpg"></p>
-<p><a href="mailto:c.gatt@student.unsw.edu.au">c DOT gatt <span class="caps">AT</span> student DOT &nbsp;unsw<span class="caps">&nbsp;DOT</span>&nbsp;edu <span class="caps">DOT</span>&nbsp;au</a></p>
-I am an undergraduate student with a keen interest in computational biology, single-cell transcriptomics and evolution.  Beyond studying, I love scuba diving and hiking. 
+<p><a href="mailto:c.gatt@unsw.edu.au">c DOT gatt <span class="caps">AT</span> unsw<span class="caps">&nbsp;DOT</span>&nbsp;edu <span class="caps">DOT</span>&nbsp;au</a></p>
+I am a PhD student with a keen interest in computational biology, single-cell transcriptomics and evolution.  Beyond studying, I love scuba diving and hiking. 
 </div>
 
+<div class="lab-member">
+<h2>Sara&nbsp;Shavandi</h2>
+<p><img width="232px" alt="Sara Shavandi" src="../images/people/sara_shavandi.jpg"></p>
+<p><a href="mailto:s.shavandi@unsw.edu.au">s DOT shavandi <span class="caps">AT</span> unsw<span class="caps">&nbsp;DOT</span>&nbsp;edu <span class="caps">DOT</span>&nbsp;au</a></p>
+I am a PhD student and I love biology, specially bioinformatics. Apart from science I am a big fan of nature and love hiking and climbing. Also, I love literature and Philosophy.
+</div>
+
+<div class="lab-member">
+<h2>Michael&nbsp;Li</h2>
+<p><img width="232px" alt="Michael Li" src="../images/people/michael_li.jpg"></p>
+<p><a href="mailto:yijie.li.1@student.unsw.edu.au">yijie DOT li DOT 1 <span class="caps">AT</span> student <span class="caps">DOT</span>&nbsp;unsw <span class="caps">DOT</span>&nbsp;edu  <span class="caps">DOT</span>&nbsp;au</a></p>
+I am an honours student with a keen interest in computational biology, and studies about how machine learning can be used in general medicine & health area. Beyond studying, I love playing badminton and video games.
+</div>
+
+<!--
 <div class="lab-member">
 <h2>Yuancong&nbsp;Cheng</h2>
 <p><img alt="Yuancong Cheng" src="../images/people/yuancong_cheng.jpg"></p>
@@ -140,6 +155,7 @@ I am an honours student in bioinformatics/biomedical engineering. I enjoy coding
 <p><a href="mailto:joannasy.ahn@gmail.com">joannasy <span class="caps">DOT</span> ahn <span class="caps">AT</span> gmail <span class="caps">DOT</span> com</a></p>
 <p>I graduated from UOA with a Bachelor's in Biological Science. Currently working on Cell Atlas Approximations. I like staying at home and watching movies!</p>
 </div>
+-->
 
 </div>
 </div>
@@ -208,6 +224,9 @@ Outside of work, I like reading and traveling.
 -->
 
 # Alumni
+- Anneliese Mak: web development for multiorgan approximations, now student at UNSW.
+- Yuancong Cheng: potyviruses in plants, now software developer at Children Cancer Institute Australia.
+- Joanna Ahn: atlas approximations, now laboratory technician at Prince of Wales hospital.
 - [Yike Xie](mailto:yike.xie@unsw.edu.au): dengue infection, HyperSeq, now postdoc @[GU](https://www.gu.se/en/research/joan-camunas-soler-group)
 - Danny Dien: Natural Language Processing for atlas approximations.
 - Keyi Jiang: single cell omics of neonatal immunity.
@@ -220,11 +239,7 @@ Outside of work, I like reading and traveling.
 - [Paula Klavina](mailto:klavinap@tcd.ie): neonatal lung intern, now PhD student @[RCSI (Ireland)](https://www.rcsi.com/)
 - [Yasir Kusay](mailto:y.kusay@student.unsw.edu.au): [igraph](https://igraph.org/) development intern, now student @[UNSW](https://www.unsw.edu.au/)
 
-# Other collaborations
-- [David Cornfield, Stanford University](http://med.stanford.edu/cornfieldlab/Home.html)
-- [John Pimanda, UNSW Lowy Cancer Research Centre](https://powcs.med.unsw.edu.au/people/associate-professor-john-pimanda)
-
-# Friends
+# Collaborators and kindred labs
 Some friendly labs that are full of smart, kind people:
 
 ![A]({static}/images/logo/a.png) [cazencotte](https://cazencott.info/)</br>
@@ -236,3 +251,5 @@ Some friendly labs that are full of smart, kind people:
 ![B]({static}/images/logo/b.png) [Goo Lab](https://research.fhcrc.org/goo/en.html)</br>
 ![F]({static}/images/logo/f.png) [ciralab](http://www.ciralab.rowland.harvard.edu/)</br>
 ![B]({static}/images/logo/b.png) [Bloom lab](https://research.fhcrc.org/bloom/en.html)</br>
+![B]({static}/images/logo/b.png) [Cornfield lab](http://med.stanford.edu/cornfieldlab/Home.html)</br>
+![B]({static}/images/logo/b.png) [Pimanda lab](https://powcs.med.unsw.edu.au/people/associate-professor-john-pimanda)
