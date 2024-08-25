@@ -134,6 +134,13 @@ I am a PhD student and I love biology, specially bioinformatics. Apart from scie
 I am an honours student with a keen interest in computational biology, and studies about how machine learning can be used in general medicine & health area. Beyond studying, I love playing badminton and video games.
 </div>
 
+<div class="lab-member">
+<h2>wLiuyi&nbsp;Chen</h2>
+<p><img width="232px" alt="Liuyi Chen" src="../images/people/liuyi_chen.jpg"></p>
+<p><a href="mailto:liuyi.chen1@unsw.edu.au">liuyi DOT chen1 <span class="caps">AT</span> </span>&nbsp;unsw <span class="caps">DOT</span>&nbsp;edu  <span class="caps">DOT</span>&nbsp;au</a></p>
+I am a student intern working on cell atlases. I enjoy studying human disease, especially genomics and immunology. I am honoured to contribute to the advancement of medicine.
+</div>
+
 <!--
 <div class="lab-member">
 <h2>Yuancong&nbsp;Cheng</h2>
