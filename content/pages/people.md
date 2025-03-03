@@ -20,7 +20,7 @@ template: people
 <p><a href="mailto:fabio.zanini@unsw.edu.au">fabio <span class="caps">DOT</span> zanini <span class="caps">AT</span> unsw <span class="caps">DOT</span> edu <span class="caps">DOT</span>&nbsp;au</a></p>
 <ul>
 <li><a href="../images/fabio_zanini_cv.pdf"><strong>Curriculum&nbsp;Vitae</strong></a></li>
-<li><a href="https://research.unsw.edu.au/people/dr-fabio-zanini"><strong><span class="caps">UNSW</span>&nbsp;profile</strong></a></li>
+<li><a href="https://research.unsw.edu.au/people/associate-professor-fabio-zanini"><strong><span class="caps">UNSW</span>&nbsp;profile</strong></a></li>
 </ul>
 <p>I love single cell biology, data science, graphs, coding, fighting viral infections, the immune system, and rock&nbsp;climbing.</p>
 
@@ -131,14 +131,21 @@ I am a PhD student and I love biology, specially bioinformatics. Apart from scie
 <h2>Michael&nbsp;Li</h2>
 <p><img width="232px" alt="Michael Li" src="../images/people/michael_li.jpg"></p>
 <p><a href="mailto:yijie.li.1@student.unsw.edu.au">yijie DOT li DOT 1 <span class="caps">AT</span> student <span class="caps">DOT</span>&nbsp;unsw <span class="caps">DOT</span>&nbsp;edu  <span class="caps">DOT</span>&nbsp;au</a></p>
-I am an honours student with a keen interest in computational biology, and studies about how machine learning can be used in general medicine & health area. Beyond studying, I love playing badminton and video games.
+I am an (incoming) PhD student with a keen interest in computational biology, and studies about how machine learning can be used in general medicine & health area. Beyond studying, I love playing badminton and video games.
 </div>
 
 <div class="lab-member">
-<h2>wLiuyi&nbsp;Chen</h2>
+<h2>Liuyi&nbsp;Chen</h2>
 <p><img width="232px" alt="Liuyi Chen" src="../images/people/liuyi_chen.jpg"></p>
 <p><a href="mailto:liuyi.chen1@unsw.edu.au">liuyi DOT chen1 <span class="caps">AT</span> </span>&nbsp;unsw <span class="caps">DOT</span>&nbsp;edu  <span class="caps">DOT</span>&nbsp;au</a></p>
 I am a student intern working on cell atlases. I enjoy studying human disease, especially genomics and immunology. I am honoured to contribute to the advancement of medicine.
+</div>
+
+<div class="lab-member">
+<h2>Amber&nbsp;Xu</h2>
+<p><img width="232px" alt="Liuyi Chen" src="../images/people/amber_xu.jpg"></p>
+<p><a href="mailto:xinyi.xu7@student.unsw.edu.au">xinyi DOT xu7 <span class="caps">AT</span> student <span class="caps">DOT</span>&nbsp;unsw <span class="caps">DOT</span>&nbsp;edu  <span class="caps">DOT</span>&nbsp;au</a></p>
+I'm a student intern working on cell atlas approximation, and I'm interested in cancer studies. I love dogs, animals, and books.
 </div>
 
 <!--
