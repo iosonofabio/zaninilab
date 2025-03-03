@@ -28,13 +28,25 @@ save_as: index.html
 ## Deep evolutionary models of cell identity
 ![umap_muscle_universal]({static}/images/research/universal_model_umap3d_muscle.png)
 
-We use **artificial intelligence** to build [universal models of cellular transcriptomes](https://www.biorxiv.org/content/10.1101/2025.02.19.639005v1) and identity that captures the essence of all eukaryotic cells. We have trained our model to encompass one billion years of cellular evolution, from plants to humans through sponges, worms, and vertebrates. Our model can recapitulate evolution of deeply conserved cell types such as muscle and immune cells, and can predict the identity of cells in new species from which no data is available, paving the way towards a much deeper understanding of cellular identity and diversity across the tree of life.
+We use **artificial intelligence** to build [universal models of cellular transcriptomes](https://www.biorxiv.org/content/10.1101/2025.02.19.639005v1) and identity that captures the essence of all eukaryotic cells. We have trained our model to encompass one billion years of cellular evolution, from plants to humans through sponges, worms, and vertebrates. Our model can recapitulate evolution of deeply conserved cell types such as muscle and immune cells, and can predict the identity of cells in new species from which no data is available.
+
+## Single-cell measurements across modalities
+![multimodal_measurement]({static}/images/research/multimodal_measurement.png)
+
+**Combining microscopic and transcriptomic measurements** on individual cells enables us to examine the relationship between cellular structure and function. We are developing new experimental and computational methods to acquire multimodal single-cell data in both [human disease](https://www.biorxiv.org/content/10.1101/2024.01.27.577536v1) and [marine plankton](https://elifesciences.org/reviewed-preprints/102991) susceptible to climate change.
 
 ## Virus-inclusive single cell RNA-Seq 2: predictive omics of infection
 ![Severe dengue]({static}/images/research/severe_dengue2.png)
 
 
 **Dengue** is the most widespread mosquito-transmitted viral disease with 400 million infections every year. We develop[new computational and data science approaches](https://www.nature.com/articles/s41590-023-01654-3) to understand what different parts of the immune system are doing during severe dengue. We identified CD163 as a biomarker for severity in monocytes and patented [new antibodies](https://elifesciences.org/articles/52384) against dengue virus.
+
+## Single-cell biomedicine of the neonatal lung
+![Neonatal lung immunity]({static}/images/research/lung_immune.png)
+
+**The lung is a very special organ at birth**, carrying pathogens and chemically reactive oxygen right into the center of our bodies. Our lab is [mapping](https://elifesciences.org/articles/56890) the [staggering](https://www.biorxiv.org/content/10.1101/2021.04.27.441649v1) cellular [diversity](https://www.biorxiv.org/content/10.1101/2021.05.19.444776v1.full) characterizing neonatal lungs in terms of gene expression (left) and anatomical location (right). A deeper understanding of this fundamental biological system will help us treat the lung conditions affecting thousands of newborn babies every year, such as bronchopulmonary dysplasia.
+
+
 
 ## Single-cell gene expression with HTSeq 2.0
 ![HTSeq]({static}/images/research/htseq2.png)
@@ -51,10 +63,4 @@ We use **artificial intelligence** to build [universal models of cellular transc
 ![Embedding AML cells]({static}/images/research/umap_aml.png)
 
 **Cancer cells are not equal in the face of therapeutics.** Within a single patient, even within a single Petri dish, heterogeneity in gene expression and function distinguishes more stem-like cells, which are more likely to cause relapse, from more differentiated cells. Using our [northstar](https://www.nature.com/articles/s41598-020-71805-1) algoritm, we developed [data exploration techniques](https://ashpublications.org/blood/article-abstract/doi/10.1182/blood.2020009707/476046/Disruption-of-a-GATA2-TAL1-ERG-regulatory-circuit?redirectedFrom=fulltext) to reveal how the transition between these cancer cell states is regulated and how it can be perturbed chemically, with the vision to reduce relapse in acute myeloid leukemia (AML).
-
-## Single-cell biomedicine of the neonatal lung
-![Neonatal lung immunity]({static}/images/research/lung_immune.png)
-
-**The lung is a very special organ at birth**, carrying pathogens and chemically reactive oxygen right into the center of our bodies. Our lab is [mapping](https://elifesciences.org/articles/56890) the [staggering](https://www.biorxiv.org/content/10.1101/2021.04.27.441649v1) cellular [diversity](https://www.biorxiv.org/content/10.1101/2021.05.19.444776v1.full) characterizing neonatal lungs in terms of gene expression (left) and anatomical location (right). A deeper understanding of this fundamental biological system will help us treat the lung conditions affecting thousands of newborn babies every year, such as bronchopulmonary dysplasia.
-
 
