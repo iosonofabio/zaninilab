@@ -128,6 +128,13 @@ I am a PhD student and I love biology, specially bioinformatics. Apart from scie
 </div>
 
 <div class="lab-member">
+<h2>Martina&nbsp;Bonomi</h2>
+<p><img alt="Martina Bonomi" src="../images/people/martina_bonomi.jpg"></p>
+<p><a href="mailto:m.bonomi@unsw.edu.au">m DOT bonomi <span class="caps">AT</span> unsw<span class="caps">&nbsp;DOT</span>&nbsp;edu <span class="caps">DOT</span>&nbsp;au</a></p>
+I am a PhD student with a particular love for T cells working on T cell receptor structure predictions with AI and single-cell analysis. In my free time I like going on long walks by the sea, drawing and cooking.
+</div>
+
+<div class="lab-member">
 <h2>Michael&nbsp;Li</h2>
 <p><img width="232px" alt="Michael Li" src="../images/people/michael_li.jpg"></p>
 <p><a href="mailto:yijie.li.1@student.unsw.edu.au">yijie DOT li DOT 1 <span class="caps">AT</span> student <span class="caps">DOT</span>&nbsp;unsw <span class="caps">DOT</span>&nbsp;edu  <span class="caps">DOT</span>&nbsp;au</a></p>
@@ -143,7 +150,7 @@ I am a student intern working on cell atlases. I enjoy studying human disease, e
 
 <div class="lab-member">
 <h2>Amber&nbsp;Xu</h2>
-<p><img width="232px" alt="Liuyi Chen" src="../images/people/amber_xu.jpg"></p>
+<p><img width="232px" alt="Amber Xun" src="../images/people/amber_xu.jpg"></p>
 <p><a href="mailto:xinyi.xu7@student.unsw.edu.au">xinyi DOT xu7 <span class="caps">AT</span> student <span class="caps">DOT</span>&nbsp;unsw <span class="caps">DOT</span>&nbsp;edu  <span class="caps">DOT</span>&nbsp;au</a></p>
 I'm a student intern working on cell atlas approximation, and I'm interested in cancer studies. I love dogs, animals, and books.
 </div>

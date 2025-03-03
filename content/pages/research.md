@@ -23,24 +23,23 @@ save_as: index.html
 -->
 
 # Research
-[Fabilab](pages/contact.html) is driven by [people](pages/people.html), not [academic boundaries](https://en.wikipedia.org/wiki/Interdisciplinarity). We proudly work on biology, medicine, data science, computer science, network science and, sometimes, math. We are enthusiastic leaders in [night science](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1800-6) and love to generate new ideas and - why not - mix things up. If you like our work, shoot Fabio an [email](mailto:fabio.zanini@unsw.edu.au). Some of our current projects are listed below.
+[Fabilab](pages/contact.html) is driven by [people](pages/people.html), not [academic boundaries](https://en.wikipedia.org/wiki/Interdisciplinarity). We proudly work on biology, medicine, data science, computer science, artificial intelligence, network science and, sometimes, math. We are enthusiastic leaders in [night science](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1800-6) and love to generate new ideas and - why not - mix things up. If you like our work, shoot Fabio an [email](mailto:fabio.zanini@unsw.edu.au). Some of our current projects are listed below.
+
+## Deep evolutionary models of cell identity
+![umap_muscle_universal]({static}/images/research/universal_model_umap3d_muscle.png)
+
+We use **artificial intelligence** to build [universal models of cellular transcriptomes](https://www.biorxiv.org/content/10.1101/2025.02.19.639005v1) and identity that captures the essence of all eukaryotic cells. We have trained our model to encompass one billion years of cellular evolution, from plants to humans through sponges, worms, and vertebrates. Our model can recapitulate evolution of deeply conserved cell types such as muscle and immune cells, and can predict the identity of cells in new species from which no data is available, paving the way towards a much deeper understanding of cellular identity and diversity across the tree of life.
 
 ## Virus-inclusive single cell RNA-Seq 2: predictive omics of infection
 ![Severe dengue]({static}/images/research/severe_dengue2.png)
 
 
-**Dengue** is the most widespread mosquito-transmitted viral disease with 400 million infections every year. We are [developing new approaches](https://www.biorxiv.org/content/10.1101/2022.12.11.519930v2.full) to understand what different parts of the immune system are doing during severe dengue. We identified CD163 as a biomarker for severity in monocytes and patented [new antibodies](https://elifesciences.org/articles/52384) against dengue virus.
+**Dengue** is the most widespread mosquito-transmitted viral disease with 400 million infections every year. We develop[new computational and data science approaches](https://www.nature.com/articles/s41590-023-01654-3) to understand what different parts of the immune system are doing during severe dengue. We identified CD163 as a biomarker for severity in monocytes and patented [new antibodies](https://elifesciences.org/articles/52384) against dengue virus.
 
 ## Single-cell gene expression with HTSeq 2.0
 ![HTSeq]({static}/images/research/htseq2.png)
 
 **HTSeq is a software library to analyse high-throughput sequencing data in Python**. It is particularly popular to quantify gene expression in bulk and single-cell RNA-Seq data via its ``htseq-count`` script. We have been maintaining *HTSeq* for many years and have developed [HTSeq 2.0](https://doi.org/10.1093/bioinformatics/btac166), adding specific support for single cell experiments, exon-level expression, and a dedicated new API to manage islands of dense genomic data sprinkled in data deserts.
-
-
-## Graph clustering guided by a cell atlas
-![northstar]({static}/images/research/northstar.png)
-
-**Cell atlases** are huge collections of single cell transcriptomes that describe in extreme molecular detail the composition of human tissues. We are pioneering [new algorithms](https://www.nature.com/articles/s41598-020-71805-1) to leverage cell atlases to rapidly elucidate the composition of tumor biopsies.
 
 ## Scalable network analysis with igraph
 ![igraph]({static}/images/research/igraph_with_plot.png)
