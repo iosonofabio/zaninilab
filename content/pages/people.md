@@ -137,8 +137,22 @@ I am a PhD student with a particular love for T cells working on T cell receptor
 <div class="lab-member">
 <h2>Michael&nbsp;Li</h2>
 <p><img width="232px" alt="Michael Li" src="../images/people/michael_li.jpg"></p>
-<p><a href="mailto:yijie.li.1@student.unsw.edu.au">yijie DOT li DOT 1 <span class="caps">AT</span> student <span class="caps">DOT</span>&nbsp;unsw <span class="caps">DOT</span>&nbsp;edu  <span class="caps">DOT</span>&nbsp;au</a></p>
-I am an (incoming) PhD student with a keen interest in computational biology, and studies about how machine learning can be used in general medicine & health area. Beyond studying, I love playing badminton and video games.
+<p><a href="mailto:michael.li7@student.unsw.edu.au">michael DOT li7 <span class="caps">AT</span> </span>&nbsp;unsw <span class="caps">DOT</span>&nbsp;edu  <span class="caps">DOT</span>&nbsp;au</a></p>
+I am a PhD student with a keen interest in computational biology, and studies about how machine learning can be used in general medicine & health area. Beyond studying, I love playing badminton and video games.
+</div>
+
+<div class="lab-member">
+<h2>Matthew&nbsp;Cheng</h2>
+<p><img width="232px" alt="Matthew Cheng" src="../images/people/matthew_cheng.jpeg"></p>
+<p><a href="mailto:ho_ching.cheng@student.unsw.edu.au">ho_ching DOT cheng <span class="caps">AT</span> student <span class="caps">DOT</span>&nbsp;unsw <span class="caps">DOT</span>&nbsp;edu  <span class="caps">DOT</span>&nbsp;au</a></p>
+I am an honour student who loves marine biology, taxonomy and phylogenetics.  I enjoy underwater photography and fencing in my spare time.
+</div>
+
+<div class="lab-member">
+<h2>Michael&nbsp;Holder</h2>
+<p><img width="232px" alt="Michael Holder" src="../images/people/michael_holder.jpg"></p>
+<p><a href="mailto:m.holder@student.unsw.edu.au">m DOT holder <span class="caps">AT</span> student <span class="caps">DOT</span>&nbsp;unsw <span class="caps">DOT</span>&nbsp;edu  <span class="caps">DOT</span>&nbsp;au</a></p>
+I’m an honours student with an interest in innate immunology and single-cell analysis methods. I love movies, cooking, and hiking.
 </div>
 
 <div class="lab-member">
