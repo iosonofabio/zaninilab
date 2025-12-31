@@ -13,7 +13,8 @@ sys.path.append(os.curdir)
 # Import config for local development and overwrite a bunch of things
 from pelicanconf_local import *
 
-SITEURL = "https://fabilab.org"
+# SITEURL = 'https://fabilab.org'
+SITEURL = "https://iosonofabio.srht.site"
 # SITEURL = 'https://iosonofabio.github.io/zaninilab'
 RELATIVE_URLS = False
 

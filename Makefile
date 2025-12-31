@@ -7,6 +7,7 @@ INPUTDIR=$(BASEDIR)/content
 OUTPUTDIR=$(BASEDIR)/docs
 CONFFILE=$(BASEDIR)/pelicanconf_local.py
 PUBLISHCONF=$(BASEDIR)/pelicanconf_deploy.py
+SHCONF=$(BASEDIR)/pelicanconf_sourcehut.py
 
 SSH_HOST=
 SSH_PORT=22
@@ -32,12 +33,14 @@ help:
 	@echo '   make clean                          remove the generated files         '
 	@echo '   make regenerate                     regenerate files upon modification '
 	@echo '   make publish                        generate using production settings '
+	@echo '   make publish-sh                     generate using sourcehut settings  '
+	@echo '   make deploy-sh                     generate using sourcehut settings  '
 	@echo '   make serve [PORT=8000]              serve site at http://localhost:8000'
 	@echo '   make serve-global [SERVER=0.0.0.0]  serve (as root) to $(SERVER):80    '
 	@echo '   make devserver [PORT=8000]          serve and regenerate together      '
-	@echo '   make ssh_upload                     upload the web site via SSH        '
-	@echo '   make rsync_upload                   upload the web site via rsync+ssh  '
-	@echo '   make s3_upload                      upload the web site to AWS S3      '
+	#@echo '   make ssh_upload                     upload the web site via SSH        '
+	#@echo '   make rsync_upload                   upload the web site via rsync+ssh  '
+	#@echo '   make s3_upload                      upload the web site to AWS S3      '
 	@echo '                                                                          '
 	@echo 'Set the DEBUG variable to 1 to enable debugging, e.g. make DEBUG=1 html   '
 	@echo 'Set the RELATIVE variable to 1 to enable relative urls                    '
@@ -77,14 +80,14 @@ endif
 publish:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 
-#ssh_upload: publish
-#	scp -P $(SSH_PORT) -r $(OUTPUTDIR)/* $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
-#
-#rsync_upload: publish
-#	rsync -e "ssh -p $(SSH_PORT)" -P -rvzc --cvs-exclude --delete $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
-#
-#s3_upload: publish
-#	aws s3 sync docs/ s3://fabilab.org/
+
+publish-sh:
+	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(SHCONF) $(PELICANOPTS)
+
+deploy-sh:
+	tar -C docs -cvz . > site.tar.gz
+	hut pages publish -d iosonofabio.srht.site site.tar.gz
+	rm site.tar.gz
 
 
-.PHONY: html help clean regenerate serve serve-global devserver publish ssh_upload rsync_upload s3_upload
+.PHONY: html help clean regenerate serve serve-global devserver publish publish-sh deploy-sh
