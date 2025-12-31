@@ -26,20 +26,24 @@ template: people
 
 </div>
 
+<!--
 <div class="lab-member">
 <h2>Priscilla&nbsp;Boon</h2>
 <p><img alt="Priscilla Boon" src="../images/people/priscilla_boon.jpg" width="232px"></p>
 <p><a href="mailto:p.boon@unsw.edu.au">p DOT boon <span class="caps">AT</span> unsw <span class="caps">DOT</span> edu <span class="caps">DOT</span>&nbsp;au</a></p>
 I love working at the interphase of computer science and biology. I enjoy interpreting and deciphering meaning from all kinds of biological data. Outside of work I enjoy eating and cooking really good food and making things with my hands. 
 </div>
+-->
 
 
+<!--
 <div class="lab-member">
 <h2>Ying&nbsp;Xu</h2>
 <p><img alt="Ying Xu" src="../images/people/ying_xu.jpg"></p>
 <p><a href="mailto:yingxu3@unsw.edu.au">yingxu3 <span class="caps">AT</span> unsw <span class="caps">DOT</span> edu <span class="caps">DOT</span>&nbsp;au</a></p>
 I am a Software Engineer working on cell atlas approximations and human-machine interfaces. Outside of work, I like photography, swimming, and cats.
 </div>
+-->
 
 <!--
 <div class="lab-member">
@@ -148,13 +152,16 @@ I am a PhD student with a keen interest in computational biology, and studies ab
 I am an honour student who loves marine biology, taxonomy and phylogenetics.  I enjoy underwater photography and fencing in my spare time.
 </div>
 
+<!--
 <div class="lab-member">
 <h2>Michael&nbsp;Holder</h2>
 <p><img width="232px" alt="Michael Holder" src="../images/people/michael_holder.jpg"></p>
 <p><a href="mailto:m.holder@student.unsw.edu.au">m DOT holder <span class="caps">AT</span> student <span class="caps">DOT</span>&nbsp;unsw <span class="caps">DOT</span>&nbsp;edu  <span class="caps">DOT</span>&nbsp;au</a></p>
 I’m an honours student with an interest in innate immunology and single-cell analysis methods. I love movies, cooking, and hiking.
 </div>
+-->
 
+<!--
 <div class="lab-member">
 <h2>Liuyi&nbsp;Chen</h2>
 <p><img width="232px" alt="Liuyi Chen" src="../images/people/liuyi_chen.jpg"></p>
@@ -168,6 +175,7 @@ I am a student intern working on cell atlases. I enjoy studying human disease, e
 <p><a href="mailto:xinyi.xu7@student.unsw.edu.au">xinyi DOT xu7 <span class="caps">AT</span> student <span class="caps">DOT</span>&nbsp;unsw <span class="caps">DOT</span>&nbsp;edu  <span class="caps">DOT</span>&nbsp;au</a></p>
 I'm a student intern working on cell atlas approximation, and I'm interested in cancer studies. I love dogs, animals, and books.
 </div>
+-->
 
 <!--
 <div class="lab-member">
@@ -259,7 +267,8 @@ Outside of work, I like reading and traveling.
 -->
 
 # Alumni
-- Anneliese Mak: web development for multiorgan approximations, now student at UNSW.
+- Michael Holder: innate immunology honours student.
+- Anneliese Mak: web development for multiorgan approximations, now Software Engineer at Canva.
 - Yuancong Cheng: potyviruses in plants, now software developer at Children Cancer Institute Australia.
 - Joanna Ahn: atlas approximations, now laboratory technician at Prince of Wales hospital.
 - [Yike Xie](mailto:yike.xie@unsw.edu.au): dengue infection, HyperSeq, now postdoc @[GU](https://www.gu.se/en/research/joan-camunas-soler-group)
@@ -269,7 +278,7 @@ Outside of work, I like reading and traveling.
 - [Zhiyuan Yao](mailto:yzhiyuan@stanford.edu): single cell omics of severe dengue and alphaviruses, now Computational Scientist @[Janssen](https://www.linkedin.com/in/zhi-yuan-yao-62142572/).
 - [Kevin Zhu](mailto:kevin.zhu3@student.unsw.edu.au>): tutorials and algorithm for [igraph](https://igraph.org/), now student @[UNSW](https://www.unsw.edu.au/).
 - [Viraj Kapoor](mailto:viraj.kapoor@student.unsw.edu.au): sex differences in neonatal lung disease, now medical student @[UNSW](https://www.unsw.edu.au/).
-- [Ying (Christine) Xu](mailto:yingxu0928@gmail.com): dengue antibody intern, now student at @[UNSW](https://www.unsw.edu.au/).
+- [Ying (Christine) Xu](mailto:yingxu0928@gmail.com): intern, then software engineer.
 - [Carsten Knutsen](mailto:cknutsen@stanford.edu): neonatal lung research professional, then research associate @[Recombinetics](https://recombinetics.com/) (now back with us!). 
 - [Paula Klavina](mailto:klavinap@tcd.ie): neonatal lung intern, now PhD student @[RCSI (Ireland)](https://www.rcsi.com/)
 - [Yasir Kusay](mailto:y.kusay@student.unsw.edu.au): [igraph](https://igraph.org/) development intern, now student @[UNSW](https://www.unsw.edu.au/)
