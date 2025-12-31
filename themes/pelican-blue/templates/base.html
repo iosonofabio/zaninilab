@@ -9,9 +9,6 @@
   <meta name="description" content="{{ AUTHOR_DESCRIPTION }}">
   <meta name="author" content="{{ AUTHOR }}">
 
-  <!-- content security policy -->
-  <meta http-equiv="Content-Security-Policy" content="style-src 'self' 'unsafe-inline' fonts.googleapis.com; font-src 'self' 'unsafe-inline' fonts.gstatic.com;">
-
   <!-- favicon -->
   <link rel="shortcut icon" href="{{ FAVICON }}">
 
@@ -20,8 +17,8 @@
   <meta itemprop="image" content="{{ SITEURL }}{{ AVATAR }}">
   <meta itemprop="description" content="{{ AUTHOR_DESCRIPTION }}">
 
-  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
   <!-- Style Meta Data -->
+  <link rel='stylesheet' href="{{ SITEURL }}/theme/css/fonts.css"type='text/css'>
   <link rel="stylesheet" href="{{ SITEURL }}/theme/css/style.css" type="text/css" />
   <link rel="stylesheet" href="{{ SITEURL }}/theme/css/pygments.css" type="text/css" />
   {% block morecss %}
